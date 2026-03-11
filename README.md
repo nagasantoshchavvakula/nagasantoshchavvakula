@@ -73,6 +73,43 @@ _**Skills Demonstrated**_
 **Goal:** Demonstrate the ability to analyze structured datasets using Python and Pandas, perform statistical analysis, and extract actionable insights through efficient data exploration workflows.
 
 ---
+### 🔄 DVC CSV Tracker — Data Version Control with Git & DVC
+
+https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git
+
+A practical **data version control project** demonstrating how to integrate **DVC (Data Version Control) with Git** to manage and track changes in structured CSV datasets. The project highlights how modern data teams maintain **reproducibility, data integrity, and collaborative workflows** by versioning datasets alongside code.
+
+This project focuses on **data versioning workflows commonly used in MLOps and data engineering pipelines**, ensuring that dataset changes are traceable, reproducible, and synchronized with source code repositories.
+
+**Status:** ✅ Completed  
+**Core Stack:** Git, GitHub, DVC (Data Version Control), CSV Data Handling, Command Line Tools
+
+_**Data Versioning & MLOps Focus**_
+
+* Initialized and configured **DVC within a Git repository** to manage dataset versioning
+* Tracked structured CSV datasets using **DVC data tracking mechanisms**
+* Maintained reproducible dataset history while separating **data artifacts from source code**
+* Demonstrated reproducible workflows commonly used in **machine learning and data science pipelines**
+
+_**Workflow & Engineering Practices**_
+
+* Used DVC commands such as `dvc init` and `dvc add` to track dataset changes
+* Managed dataset metadata files (.dvc) and repository configurations
+* Committed DVC metadata and configuration files to Git for version control
+* Simulated dataset updates and maintained version history through Git commits
+* Pushed repository updates to GitHub to enable collaborative data project workflows
+
+_**Skills Demonstrated**_
+
+* Git & GitHub version control
+* Data Version Control (DVC)
+* Reproducible data science workflows
+* CSV dataset management
+* Command-line based data engineering workflows
+* Collaboration practices in data-driven projects
+
+**Goal:** Demonstrate how to build reproducible data science workflows by integrating Git and DVC for dataset versioning, enabling scalable collaboration and reliable data pipeline management.
+---
 
 ### 📱 YouTube–TikTok Short Form Video Analytics Dashboard
 **Tech:** MySQL, Python, Streamlit, Power BI  
