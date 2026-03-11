@@ -10,20 +10,11 @@ Experienced in **SQL, Python, SAS, Tableau, Power BI, and cloud platforms (AWS &
 
 # 🚀 Focus Areas
 
-📊 **Data Analytics & Insights**  
-Exploratory data analysis, statistical modeling, and KPI reporting to support data-driven decision making.
-
-⚙️ **Data Engineering & ETL Pipelines**  
-Designing scalable pipelines for ingesting, transforming, and integrating large datasets.
-
-📈 **Data Visualization & BI**  
-Developing interactive dashboards using Tableau and Power BI for real-time insights.
-
-🤖 **Machine Learning & Predictive Analytics**  
-Building ML models for fraud detection, churn prediction, and sentiment analysis.
-
-☁️ **Cloud Data Platforms**  
-Working with AWS and Azure services for scalable analytics workflows.
+📊 **Data Analytics & Insights**  - Exploratory data analysis, statistical modeling, and KPI reporting to support data-driven decision making.
+⚙️ **Data Engineering & ETL Pipelines**  - Designing scalable pipelines for ingesting, transforming, and integrating large datasets.
+📈 **Data Visualization & BI** - Developing interactive dashboards using Tableau and Power BI for real-time insights.
+🤖 **Machine Learning & Predictive Analytics** - Building ML models for fraud detection, churn prediction, and sentiment analysis.
+☁️ **Cloud Data Platforms** - Working with AWS and Azure services for scalable analytics workflows.
 
 ---
 
