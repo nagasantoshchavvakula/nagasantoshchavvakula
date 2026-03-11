@@ -10,11 +10,11 @@ I don’t treat data analysis as isolated reports. I build analytics as end-to-e
 
 ## 🚀 Focus Areas
 
-* 📊 **Data Analytics & Insights**  - Exploratory data analysis, statistical modeling, and KPI reporting to support data-driven decision making.
-* ⚙️ **Data Engineering & ETL Pipelines**  - Designing scalable pipelines for ingesting, transforming, and integrating large datasets.
-* 📈 **Data Visualization & BI** - Developing interactive dashboards using Tableau and Power BI for real-time insights.
-* 🤖 **Machine Learning & Predictive Analytics** - Building ML models for fraud detection, churn prediction, and sentiment analysis.
-* ☁️ **Cloud Data Platforms** - Working with AWS and Azure services for scalable analytics workflows.
+* 📊 **Data Analytics & Insights** – Performing exploratory data analysis (EDA), statistical modeling, and KPI reporting to drive data-informed decision making.  
+* ⚙️ **Data Engineering & ETL Pipelines** – Designing and implementing scalable pipelines for ingesting, transforming, and integrating large datasets efficiently.  
+* 📈 **Data Visualization & Business Intelligence** – Developing interactive dashboards and reports with Tableau, Power BI, and Excel for actionable insights.  
+* 🤖 **Machine Learning & Predictive Analytics** – Building ML models for use cases like fraud detection, customer churn prediction, and sentiment analysis.  
+* ☁️ **Cloud Data Platforms & Architecture** – Leveraging AWS and Azure services to design scalable, reliable analytics workflows.  
 
 ---
 
@@ -482,12 +482,24 @@ Current interests include:
 - Cloud-based analytics platforms
 
 ---
+## 📂 Projects & Portfolio
 
-## 🤝 Connect With Me
+Here are some of my selected projects demonstrating **end-to-end workflows**:
 
-📍 Texas, USA  
-📧 Email: [nagasantoshchavvakula@gmail.com](mailto:nagasantoshchavvakula@gmail.com)  
-💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagas914/)
+- **[Student Performance Analysis](https://github.com/nagasantoshchavvakula/Student-Performance-Analysis)** – Python-based EDA and statistical analysis of student datasets.  
+- **[DVC CSV Tracker](https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git)** – Data version control using DVC & Git for reproducible ML pipelines.  
+- **[Personal Finance Tracker & Investment Portfolio Analyzer](https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer)** – Automated Python system for financial insights.  
+- **[Ecommerce Fraud Detection](https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline)** – End-to-end ETL and analytics pipeline for detecting fraudulent transactions.  
+- **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – HuggingFace NLP pipeline with DVC, MLflow, and Docker deployment.  
+- **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – Production-ready ML pipeline predicting customer churn with automated workflows.  
+
+---
+
+### 📫 Contact & Connect
+
+- 🐙 GitHub: [nagasantoshchavvakula](https://github.com/nagasantoshchavvakula)
+- 💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagasantosh) 
+- ✉️ Email: `nagasantoshchavvakula@gmail.com`
 
 ---
 
