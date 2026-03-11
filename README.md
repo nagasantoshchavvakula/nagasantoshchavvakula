@@ -112,7 +112,7 @@ Current interests include:
 
 📍 Texas, USA  
 📧 nagasantoshchavvakula@gmail.com  
-💼 LinkedIn: *Add your LinkedIn link here*
+💼 LinkedIn: *linkedin.com/in/nagas914*
 
 ---
 
