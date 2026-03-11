@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Nagasantosh
+👋 Hi, I’m Nagasantosh
 
-💼 **Data Analyst | Python • SQL • Tableau • Power BI | Data Engineering & Analytics**
+💼 Data Analyst | Python • SQL • Excel • Tableau • Power BI | Data Engineering, Analytics & Machine Learning (ML)
 
-Data Analyst with **5+ years of experience in healthcare and financial services**, building scalable data pipelines, analytics dashboards, and predictive models that turn complex datasets into actionable insights.  
+🧠 Engineer by training, data enthusiast by practice, and builder of scalable analytics pipelines, dashboards, and ML-driven systems. I specialize in turning raw, complex datasets into actionable insights, operational dashboards, and data-driven decisions for healthcare, finance, and business applications.
 
-Experienced in **SQL, Python, SAS, Tableau, Power BI, and cloud platforms (AWS & Azure)** with a strong focus on ETL automation, statistical analysis, and business intelligence.
+I don’t treat data analysis as isolated reports. I build analytics as end-to-end, reproducible, and deployable systems. ☕
 
 ---
 
