@@ -36,17 +36,41 @@ Experienced in **SQL, Python, SAS, Tableau, Power BI, and cloud platforms (AWS &
 
 ## 📊 Featured Projects
 
-### 📚 Student Performance Data Analysis & Visualization
-**Tech:** Python, Pandas, NumPy, Streamlit, DVC  
+### 📊 Student Performance Analysis — Python Data Exploration Project
 
-Developed a data analysis pipeline to preprocess and analyze student performance datasets. Built interactive dashboards using Streamlit and implemented version-controlled dataset management using DVC.
+https://github.com/nagasantoshchavvakula/Student-Performance-Analysis
 
----
+A Python-based **data analysis project** designed to explore and summarize student performance datasets using **Pandas**. The project demonstrates how structured CSV data can be programmatically processed to extract meaningful insights through statistical analysis and exploratory data techniques.
 
-### 💰 Personal Finance Tracker & Investment Portfolio Analyzer
-**Tech:** Python, Pandas, NumPy, Prefect  
+This project focuses on **data exploration, statistical computation, and structured data handling**, highlighting how Python can be used to quickly analyze datasets and generate performance insights for decision-making.
 
-Built a finance management application for tracking expenses, managing budgets, and analyzing investment portfolios with automated analytics workflows.
+**Status:** ✅ Completed  
+**Core Stack:** Python, Pandas, CSV Data Processing, Descriptive Statistics
+
+_**Data Analysis Focus**_
+
+* Reading and processing structured student datasets from CSV files using Pandas
+* Performing exploratory data analysis (EDA) on student attributes such as scores and age
+* Calculating statistical metrics including mean, median, standard deviation, minimum, and maximum values
+* Extracting key information such as student names and previewing top records for quick dataset inspection
+* Generating descriptive summaries to identify performance patterns within the dataset
+
+_**Data Engineering & Code Quality Practices**_
+
+* Implemented structured data handling using Pandas DataFrames
+* Added robust exception handling for missing files and column inconsistencies
+* Designed reusable analysis scripts for quick dataset preview and insight generation
+* Demonstrated practical workflows for cleaning and summarizing real-world tabular datasets
+
+_**Skills Demonstrated**_
+
+* Python programming for data analysis
+* Pandas DataFrame manipulation
+* CSV data ingestion and transformation
+* Descriptive statistical analysis
+* Error handling and robust data processing
+
+**Goal:** Demonstrate the ability to analyze structured datasets using Python and Pandas, perform statistical analysis, and extract actionable insights through efficient data exploration workflows.
 
 ---
 
