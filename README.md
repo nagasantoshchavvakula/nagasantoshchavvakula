@@ -111,8 +111,8 @@ Current interests include:
 # 🤝 Connect With Me
 
 📍 Texas, USA  
-📧 nagasantoshchavvakula@gmail.com  
-💼 LinkedIn: linkedin.com/in/nagas914
+📧 Email: [nagasantoshchavvakula@gmail.com](mailto:nagasantoshchavvakula@gmail.com)  
+💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagas914/)
 
 ---
 
