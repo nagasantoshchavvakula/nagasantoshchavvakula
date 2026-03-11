@@ -498,7 +498,7 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 ### 📫 Contact & Connect
 
 - 🐙 GitHub: [nagasantoshchavvakula](https://github.com/nagasantoshchavvakula)
-- 💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagasantosh) 
+- 💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagas914/) 
 - ✉️ Email: `nagasantoshchavvakula@gmail.com`
 
 ---
