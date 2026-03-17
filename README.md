@@ -500,6 +500,7 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 - 🐙 GitHub: [nagasantoshchavvakula](https://github.com/nagasantoshchavvakula)
 - 💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagas914/) 
 - ✉️ Email: `nagasantoshchavvakula@gmail.com`
+- 📱 Mobile: `+1 972-880-3104`
 
 ---
 
