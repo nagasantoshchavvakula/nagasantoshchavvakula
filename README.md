@@ -44,7 +44,7 @@ An end-to-end **machine learning pipeline project** to predict **customer churn*
 
 This project emphasizes **reproducibility, automated testing, and CI/CD workflows**, demonstrating best practices for building production-ready ML systems.
 
-**Status:** ⚙️ In Progress  
+**Status:** ✅ Completed  
 **Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, PyTest, GitHub Actions, Joblib, Jupyter Notebook
 
 _**Machine Learning & Analytics Focus**_
