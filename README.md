@@ -36,167 +36,188 @@ I don’t treat data analysis as isolated reports. I build analytics as end-to-e
 
 ## 📊 Featured Projects
 
-### 📊 Student Performance Analysis — Python Data Exploration Project
+### 📉 Telco Customer Churn Prediction — Machine Learning Pipeline Project
 
-https://github.com/nagasantoshchavvakula/Student-Performance-Analysis
+[https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)
 
-A Python-based **data analysis project** designed to explore and summarize student performance datasets using **Pandas**. The project demonstrates how structured CSV data can be programmatically processed to extract meaningful insights through statistical analysis and exploratory data techniques.
+An end-to-end **machine learning pipeline project** to predict **customer churn** for a telecommunications company using real-world business data. The project follows the complete **ML lifecycle**, from exploratory data analysis and preprocessing to model development, hyperparameter tuning, and deployment-ready model serialization.
 
-This project focuses on **data exploration, statistical computation, and structured data handling**, highlighting how Python can be used to quickly analyze datasets and generate performance insights for decision-making.
+This project emphasizes **reproducibility, automated testing, and CI/CD workflows**, demonstrating best practices for building production-ready ML systems.
 
-**Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, CSV Data Processing, Descriptive Statistics
+**Status:** ⚙️ In Progress  
+**Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, PyTest, GitHub Actions, Joblib, Jupyter Notebook
 
-_**Data Analysis Focus**_
+_**Machine Learning & Analytics Focus**_
 
-* Reading and processing structured student datasets from CSV files using Pandas
-* Performing exploratory data analysis (EDA) on student attributes such as scores and age
-* Calculating statistical metrics including mean, median, standard deviation, minimum, and maximum values
-* Extracting key information such as student names and previewing top records for quick dataset inspection
-* Generating descriptive summaries to identify performance patterns within the dataset
+* Conducted Exploratory Data Analysis (EDA) to understand customer behavior and churn patterns
+* Computed statistical summaries including distributions, correlations, and hypothesis testing
+* Built preprocessing pipelines for missing value handling, categorical encoding, and feature scaling
+* Implemented stratified train-test splitting to preserve class distribution
+* Developed multiple ML models: Logistic Regression, KNN, Decision Tree, Random Forest, XGBoost
+* Addressed class imbalance using **SMOTE** techniques
+* Evaluated models using Accuracy, Precision, Recall, F1-score, ROC-AUC, confusion matrices, and ROC curves
+* Performed hyperparameter tuning with GridSearchCV and RandomizedSearchCV
+* Selected and serialized the best-performing model and scaler for production use
 
-_**Data Engineering & Code Quality Practices**_
+_**Systems & MLOps Direction**_
 
-* Implemented structured data handling using Pandas DataFrames
-* Added robust exception handling for missing files and column inconsistencies
-* Designed reusable analysis scripts for quick dataset preview and insight generation
-* Demonstrated practical workflows for cleaning and summarizing real-world tabular datasets
+* Automated testing using **PyTest**
+* CI/CD pipelines implemented with **GitHub Actions** for reproducibility and deployment readiness
+* Data visualization for model insights using **Matplotlib** and **Seaborn**
+* Workflow version control and experiment tracking using **Git** and **Jupyter Notebook**
 
 _**Skills Demonstrated**_
 
-* Python programming for data analysis
-* Pandas DataFrame manipulation
-* CSV data ingestion and transformation
-* Descriptive statistical analysis
-* Error handling and robust data processing
+* Python programming for ML pipelines
+* Data preprocessing & feature engineering
+* Model evaluation & hyperparameter optimization
+* Ensemble learning with XGBoost
+* Imbalanced data handling and statistical analysis
+* CI/CD for ML workflows
+* Model serialization and deployment readiness
 
-**Goal:** Demonstrate the ability to analyze structured datasets using Python and Pandas, perform statistical analysis, and extract actionable insights through efficient data exploration workflows.
+**Goal:** Build a production-ready ML pipeline that predicts customer churn, provides actionable business insights, and demonstrates reproducible, automated, and deployment-ready ML workflows.
 
 ---
-### 🔄 DVC CSV Tracker — Data Version Control with Git & DVC
+### 🤖 ML Lifecycle & MLOps Sentiment Analysis System — End-to-End NLP Pipeline
 
-https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git
+[https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)
 
-A practical **data version control project** demonstrating how to integrate **DVC (Data Version Control) with Git** to manage and track changes in structured CSV datasets. The project highlights how modern data teams maintain **reproducibility, data integrity, and collaborative workflows** by versioning datasets alongside code.
+An **end-to-end Machine Learning Lifecycle (MLOps) project** for sentiment analysis using **HuggingFace transformer models**. The project demonstrates industry-standard practices including **data versioning, experiment tracking, automated CI/CD pipelines, and cloud-ready deployment**. Transfer learning is applied to fine-tune a pre-trained NLP model for **binary sentiment classification**, ensuring scalable, reproducible, and production-ready ML workflows.
 
-This project focuses on **data versioning workflows commonly used in MLOps and data engineering pipelines**, ensuring that dataset changes are traceable, reproducible, and synchronized with source code repositories.
+**Status:** ⚙️ In Progress  
+**Core Stack:** Python, HuggingFace Transformers, PyTorch, DVC, MLflow, Flask, Docker, CI/CD Pipelines
 
-**Status:** ✅ Completed  
-**Core Stack:** Git, GitHub, DVC (Data Version Control), CSV Data Handling, Command Line Tools
+_**MLOps & Data Focus**_
 
-_**Data Versioning & MLOps Focus**_
+* Implemented data lifecycle management using **DVC** for dataset and model artifact versioning
+* Built preprocessing pipelines for text cleaning and tokenization
+* Performed **exploratory data analysis (EDA)** on text data
+* Fine-tuned **DistilBERT** for sentiment classification
+* Developed reproducible ML pipelines with parameter tracking and dependency management
 
-* Initialized and configured **DVC within a Git repository** to manage dataset versioning
-* Tracked structured CSV datasets using **DVC data tracking mechanisms**
-* Maintained reproducible dataset history while separating **data artifacts from source code**
-* Demonstrated reproducible workflows commonly used in **machine learning and data science pipelines**
+_**Experimentation & Deployment**_
 
-_**Workflow & Engineering Practices**_
-
-* Used DVC commands such as `dvc init` and `dvc add` to track dataset changes
-* Managed dataset metadata files (.dvc) and repository configurations
-* Committed DVC metadata and configuration files to Git for version control
-* Simulated dataset updates and maintained version history through Git commits
-* Pushed repository updates to GitHub to enable collaborative data project workflows
+* Integrated **MLflow** for experiment tracking, hyperparameter logging, and model versioning
+* Designed evaluation workflows including accuracy, precision, recall, F1-score, and confusion matrix
+* Built **RESTful Flask API** for real-time and batch sentiment predictions
+* Created automated **CI/CD pipelines** using GitHub Actions for testing, training, and deployment
+* Containerized the application using **Docker** for consistent deployments
+* Implemented monitoring-ready endpoints for production health checks and model performance tracking
 
 _**Skills Demonstrated**_
 
-* Git & GitHub version control
-* Data Version Control (DVC)
-* Reproducible data science workflows
-* CSV dataset management
-* Command-line based data engineering workflows
-* Collaboration practices in data-driven projects
+* Machine Learning & NLP: Transfer Learning, Sentiment Analysis, Transformer Models  
+* MLOps Tools: DVC, MLflow, CI/CD pipelines  
+* Programming: Python  
+* Deployment & DevOps: Flask API, Docker, GitHub Actions  
+* Data Engineering: Versioning, Pipeline Orchestration  
+* Cloud & Production Concepts: Model Serving, Reproducibility
 
-**Goal:** Demonstrate how to build reproducible data science workflows by integrating Git and DVC for dataset versioning, enabling scalable collaboration and reliable data pipeline management.
+**Goal:** Deliver an **industry-standard, production-ready MLOps pipeline** for NLP sentiment analysis that demonstrates best practices in experiment tracking, deployment, and reproducibility.
 
 ---
-### 💰 Personal Finance Tracker & Investment Portfolio Analyzer — Financial Analytics System
+### 🤖 Introduction to Machine Learning — Core ML Implementation Project
 
-https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer
+https://github.com/nagasantoshchavvakula/Intro_ML_Starter_Code_Implementation
 
-A Python-based **personal finance analytics system** designed to track expenses, manage budgets, and analyze investment portfolios through automated data workflows. The project demonstrates the integration of **Python programming, financial modeling, and workflow orchestration** to transform raw financial data into actionable insights.
+A foundational **machine learning implementation project** designed to demonstrate the core components of a typical ML workflow, including data preprocessing, dataset splitting, model training, prediction, and evaluation.  
 
-This system focuses on **financial data analysis, automation, and reproducible data pipelines**, enabling users to monitor spending behavior, evaluate investment performance, and generate analytical reports for better financial decision-making.
+The project focuses on building reusable Python functions that implement key machine learning operations using **NumPy and Scikit-learn**, providing a hands-on understanding of how regression and classification models are trained and evaluated in real-world data science pipelines.
+
+This project emphasizes **clean data preparation, modular ML pipeline design, and reliable model evaluation**, reflecting practical machine learning development workflows used in analytics and AI systems.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, NumPy, Prefect, DVC, Matplotlib
+**Core Stack:** Python, NumPy, Scikit-learn, Pytest
 
-_**Financial Analytics & Data Processing Focus**_
+_**Machine Learning Pipeline Focus**_
 
-* Tracking financial transactions, expenses, and budget allocations using structured data models
-* Performing statistical and time-series analysis on spending patterns and investment performance
-* Processing financial datasets using Pandas and NumPy for numerical and analytical computations
-* Generating reports and visualizations to evaluate budget adherence and portfolio growth
-* Extracting insights on spending trends and investment returns through analytical workflows
+* Implemented feature normalization using **min–max scaling** to standardize dataset inputs
+* Designed flexible **missing value imputation strategies** including mean, median, and zero replacement
+* Built dataset **train-test splitting functions** to support proper model validation
+* Trained **Linear Regression models** for continuous value prediction tasks
+* Developed **Logistic Regression classifiers** for binary classification problems
+* Created reusable prediction functions to generate outputs on unseen data
 
-_**System Architecture & Engineering Practices**_
+_**Model Evaluation & Validation**_
 
-* Developed modular Python architecture using **Object-Oriented Programming (OOP)** principles
-* Designed reusable classes for **transactions, accounts, and investment portfolios**
-* Implemented **data validation and structured financial data models**
-* Built reproducible data pipelines using **Data Version Control (DVC)**
-* Automated scheduled financial analysis using **Prefect workflow orchestration**
+* Implemented regression evaluation using **Mean Squared Error (MSE)**
+* Calculated classification performance using **Accuracy metrics**
+* Validated ML pipeline functionality using **automated unit testing with pytest**
+* Ensured reproducibility and correctness across preprocessing, training, and prediction stages
+
+_**Engineering & Development Practices**_
+
+* Developed modular Python functions for reusable ML workflows
+* Applied automated testing to validate model pipelines
+* Used **Git and GitHub for version control and project management**
+* Maintained clean documentation with structured function docstrings and examples
 
 _**Skills Demonstrated**_
 
-* Python programming and OOP system design
-* Financial data analysis and modeling
-* Pandas and NumPy for structured data processing
-* Workflow automation using Prefect
-* Reproducible data pipelines with DVC
-* Data visualization and reporting with Matplotlib
-* Git-based version control and project organization
+* Python programming for machine learning
+* Data preprocessing and feature scaling
+* Regression and classification model development
+* Model performance evaluation and testing
+* Building reliable and modular ML pipelines
 
-**Goal:** Demonstrate the design of an automated financial analytics system that combines data engineering, statistical analysis, and workflow automation to support personal finance monitoring and investment decision-making.
+**Goal:** Demonstrate a practical understanding of machine learning fundamentals by implementing a complete ML workflow from data preprocessing to model evaluation using industry-standard Python libraries.
 
 ---
-### 📊 Exploratory Data Analysis & Visualization of Student Performance — Interactive Analytics Dashboard
 
-https://github.com/nagasantoshchavvakula/EDA_Student_Performance
+### 🛒 Ecommerce Fraud Detection — End-to-End Pipeline
 
-An end-to-end **data analysis and visualization project** focused on exploring the factors influencing student exam performance using a Kaggle dataset. The project demonstrates how Python-based data analytics workflows can transform raw educational datasets into meaningful insights through **exploratory data analysis, statistical visualization, and interactive dashboards**.
+https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline
 
-The project integrates **data preprocessing, statistical analysis, and interactive visualization** to enable dynamic exploration of student performance metrics, helping identify patterns across demographic, socioeconomic, and academic variables.
+A production-style **data engineering project** that implements an automated pipeline for detecting fraudulent e-commerce transactions. The system processes raw transaction data, performs cleaning and feature engineering, and loads analytics-ready datasets into a MySQL analytics layer to support fraud monitoring and BI dashboards.
+
+This project simulates a **real-world enterprise data pipeline**, incorporating ETL orchestration, modular workflow design, and monitoring to ensure reliable processing of transactional data used for fraud analysis.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
+**Core Stack:** Python, Pandas, Prefect, MySQL, SQL, Data Engineering Pipelines
 
-_**Data Analysis & EDA Focus**_
+---
 
-* Cleaned and preprocessed the Kaggle **Student Performance in Exams** dataset by handling missing values, duplicates, and data inconsistencies
-* Conducted exploratory data analysis to uncover patterns and relationships between exam scores and demographic variables
-* Performed statistical analysis and correlation analysis across math, reading, and writing scores
-* Engineered meaningful features and calculated key performance indicators (KPIs) for student performance evaluation
+**_Data Engineering Focus_**
 
-_**Data Visualization & Insights**_
+* Designed an automated ETL pipeline to ingest, transform, and load e-commerce transaction data
+* Processed raw CSV datasets and stored them in MySQL staging tables for controlled transformation
+* Built modular ETL tasks (Extract → Transform → Load) orchestrated using Prefect workflows
+* Developed analytics-ready datasets optimized for fraud detection queries and BI dashboards
+* Implemented data validation, schema standardization, and feature engineering during transformation
 
-* Built multiple visualization types including histograms, bar charts, scatter plots, box plots, and heatmaps
-* Used Seaborn, Matplotlib, and Plotly to visually communicate trends, correlations, and distribution patterns
-* Identified key performance drivers such as parental education level, lunch type, and test preparation courses
+---
 
-_**Interactive Dashboard Development**_
+**_Fraud Analytics & Feature Engineering_**
 
-* Developed a **Streamlit-based interactive analytics dashboard** for dynamic exploration of student performance data
-* Implemented filters and KPIs allowing users to explore results by gender, race/ethnicity, education level, and exam category
-* Designed an intuitive interface to make complex data insights accessible for non-technical users
+* Engineered fraud detection features such as promo misuse, device-location mismatch, and transaction anomalies
+* Generated key fraud metrics including fraud rate, suspicious user patterns, and high-risk country indicators
+* Designed SQL analytical queries to detect abnormal transaction behaviors and high-risk merchant categories
+* Created aggregated KPIs enabling drill-down analysis at the transaction and user levels
 
-_**Deployment & Data Application Engineering**_
+---
 
-* Deployed the Streamlit application using **Streamlit Community Cloud**
-* Integrated GitHub for version control and automated deployment workflows
-* Enabled cloud-based access for interactive exploration of insights from anywhere
+**_Workflow Automation & Monitoring_**
 
-_**Skills Demonstrated**_
+* Automated pipeline orchestration using Prefect with scheduling, retries, and workflow logging
+* Implemented modular task-based ETL architecture for scalable data processing
+* Enabled real-time monitoring and failure recovery using Prefect UI
+* Designed pipelines to support reliable batch processing for large transaction datasets
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Preprocessing
-* Statistical Analysis & Correlation Analysis
-* Interactive Data Visualization
-* Dashboard Development with Streamlit
-* Cloud Deployment & Version Control
+---
 
-**Goal:** Demonstrate the ability to perform end-to-end exploratory data analysis, build interactive dashboards, and deploy Python-based data applications that transform raw datasets into accessible and actionable insights.
+**_Skills Demonstrated_**
+
+* Python for data engineering (Pandas, SQLAlchemy)
+* ETL pipeline development and workflow orchestration
+* Prefect for scheduling, monitoring, and pipeline automation
+* MySQL database design (staging and analytics schemas)
+* SQL analytics and fraud detection metrics
+* Designing BI-ready datasets for reporting and dashboards
+
+---
+
+**Goal:** Build a scalable **data engineering pipeline for fraud detection analytics**, demonstrating how automated ETL workflows, feature engineering, and SQL analytics can transform raw transactional data into actionable fraud insights for business intelligence systems.
 
 ---
 
@@ -283,189 +304,171 @@ _**Skills Demonstrated**_
 
 ---
 
-### 🛒 Ecommerce Fraud Detection — End-to-End Pipeline
+### 💰 Personal Finance Tracker & Investment Portfolio Analyzer — Financial Analytics System
 
-https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline
+https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer
 
-A production-style **data engineering project** that implements an automated pipeline for detecting fraudulent e-commerce transactions. The system processes raw transaction data, performs cleaning and feature engineering, and loads analytics-ready datasets into a MySQL analytics layer to support fraud monitoring and BI dashboards.
+A Python-based **personal finance analytics system** designed to track expenses, manage budgets, and analyze investment portfolios through automated data workflows. The project demonstrates the integration of **Python programming, financial modeling, and workflow orchestration** to transform raw financial data into actionable insights.
 
-This project simulates a **real-world enterprise data pipeline**, incorporating ETL orchestration, modular workflow design, and monitoring to ensure reliable processing of transactional data used for fraud analysis.
-
-**Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, Prefect, MySQL, SQL, Data Engineering Pipelines
-
----
-
-**_Data Engineering Focus_**
-
-* Designed an automated ETL pipeline to ingest, transform, and load e-commerce transaction data
-* Processed raw CSV datasets and stored them in MySQL staging tables for controlled transformation
-* Built modular ETL tasks (Extract → Transform → Load) orchestrated using Prefect workflows
-* Developed analytics-ready datasets optimized for fraud detection queries and BI dashboards
-* Implemented data validation, schema standardization, and feature engineering during transformation
-
----
-
-**_Fraud Analytics & Feature Engineering_**
-
-* Engineered fraud detection features such as promo misuse, device-location mismatch, and transaction anomalies
-* Generated key fraud metrics including fraud rate, suspicious user patterns, and high-risk country indicators
-* Designed SQL analytical queries to detect abnormal transaction behaviors and high-risk merchant categories
-* Created aggregated KPIs enabling drill-down analysis at the transaction and user levels
-
----
-
-**_Workflow Automation & Monitoring_**
-
-* Automated pipeline orchestration using Prefect with scheduling, retries, and workflow logging
-* Implemented modular task-based ETL architecture for scalable data processing
-* Enabled real-time monitoring and failure recovery using Prefect UI
-* Designed pipelines to support reliable batch processing for large transaction datasets
-
----
-
-**_Skills Demonstrated_**
-
-* Python for data engineering (Pandas, SQLAlchemy)
-* ETL pipeline development and workflow orchestration
-* Prefect for scheduling, monitoring, and pipeline automation
-* MySQL database design (staging and analytics schemas)
-* SQL analytics and fraud detection metrics
-* Designing BI-ready datasets for reporting and dashboards
-
----
-
-**Goal:** Build a scalable **data engineering pipeline for fraud detection analytics**, demonstrating how automated ETL workflows, feature engineering, and SQL analytics can transform raw transactional data into actionable fraud insights for business intelligence systems.
-
----
-### 🤖 Introduction to Machine Learning — Core ML Implementation Project
-
-https://github.com/nagasantoshchavvakula/Intro_ML_Starter_Code_Implementation
-
-A foundational **machine learning implementation project** designed to demonstrate the core components of a typical ML workflow, including data preprocessing, dataset splitting, model training, prediction, and evaluation.  
-
-The project focuses on building reusable Python functions that implement key machine learning operations using **NumPy and Scikit-learn**, providing a hands-on understanding of how regression and classification models are trained and evaluated in real-world data science pipelines.
-
-This project emphasizes **clean data preparation, modular ML pipeline design, and reliable model evaluation**, reflecting practical machine learning development workflows used in analytics and AI systems.
+This system focuses on **financial data analysis, automation, and reproducible data pipelines**, enabling users to monitor spending behavior, evaluate investment performance, and generate analytical reports for better financial decision-making.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, NumPy, Scikit-learn, Pytest
+**Core Stack:** Python, Pandas, NumPy, Prefect, DVC, Matplotlib
 
-_**Machine Learning Pipeline Focus**_
+_**Financial Analytics & Data Processing Focus**_
 
-* Implemented feature normalization using **min–max scaling** to standardize dataset inputs
-* Designed flexible **missing value imputation strategies** including mean, median, and zero replacement
-* Built dataset **train-test splitting functions** to support proper model validation
-* Trained **Linear Regression models** for continuous value prediction tasks
-* Developed **Logistic Regression classifiers** for binary classification problems
-* Created reusable prediction functions to generate outputs on unseen data
+* Tracking financial transactions, expenses, and budget allocations using structured data models
+* Performing statistical and time-series analysis on spending patterns and investment performance
+* Processing financial datasets using Pandas and NumPy for numerical and analytical computations
+* Generating reports and visualizations to evaluate budget adherence and portfolio growth
+* Extracting insights on spending trends and investment returns through analytical workflows
 
-_**Model Evaluation & Validation**_
+_**System Architecture & Engineering Practices**_
 
-* Implemented regression evaluation using **Mean Squared Error (MSE)**
-* Calculated classification performance using **Accuracy metrics**
-* Validated ML pipeline functionality using **automated unit testing with pytest**
-* Ensured reproducibility and correctness across preprocessing, training, and prediction stages
-
-_**Engineering & Development Practices**_
-
-* Developed modular Python functions for reusable ML workflows
-* Applied automated testing to validate model pipelines
-* Used **Git and GitHub for version control and project management**
-* Maintained clean documentation with structured function docstrings and examples
+* Developed modular Python architecture using **Object-Oriented Programming (OOP)** principles
+* Designed reusable classes for **transactions, accounts, and investment portfolios**
+* Implemented **data validation and structured financial data models**
+* Built reproducible data pipelines using **Data Version Control (DVC)**
+* Automated scheduled financial analysis using **Prefect workflow orchestration**
 
 _**Skills Demonstrated**_
 
-* Python programming for machine learning
-* Data preprocessing and feature scaling
-* Regression and classification model development
-* Model performance evaluation and testing
-* Building reliable and modular ML pipelines
+* Python programming and OOP system design
+* Financial data analysis and modeling
+* Pandas and NumPy for structured data processing
+* Workflow automation using Prefect
+* Reproducible data pipelines with DVC
+* Data visualization and reporting with Matplotlib
+* Git-based version control and project organization
 
-**Goal:** Demonstrate a practical understanding of machine learning fundamentals by implementing a complete ML workflow from data preprocessing to model evaluation using industry-standard Python libraries.
+**Goal:** Demonstrate the design of an automated financial analytics system that combines data engineering, statistical analysis, and workflow automation to support personal finance monitoring and investment decision-making.
+
 
 ---
 
-### 🤖 ML Lifecycle & MLOps Sentiment Analysis System — End-to-End NLP Pipeline
+### 📊 Exploratory Data Analysis & Visualization of Student Performance — Interactive Analytics Dashboard
 
-[https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)
+https://github.com/nagasantoshchavvakula/EDA_Student_Performance
 
-An **end-to-end Machine Learning Lifecycle (MLOps) project** for sentiment analysis using **HuggingFace transformer models**. The project demonstrates industry-standard practices including **data versioning, experiment tracking, automated CI/CD pipelines, and cloud-ready deployment**. Transfer learning is applied to fine-tune a pre-trained NLP model for **binary sentiment classification**, ensuring scalable, reproducible, and production-ready ML workflows.
+An end-to-end **data analysis and visualization project** focused on exploring the factors influencing student exam performance using a Kaggle dataset. The project demonstrates how Python-based data analytics workflows can transform raw educational datasets into meaningful insights through **exploratory data analysis, statistical visualization, and interactive dashboards**.
 
-**Status:** ⚙️ In Progress  
-**Core Stack:** Python, HuggingFace Transformers, PyTorch, DVC, MLflow, Flask, Docker, CI/CD Pipelines
+The project integrates **data preprocessing, statistical analysis, and interactive visualization** to enable dynamic exploration of student performance metrics, helping identify patterns across demographic, socioeconomic, and academic variables.
 
-_**MLOps & Data Focus**_
+**Status:** ✅ Completed  
+**Core Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
 
-* Implemented data lifecycle management using **DVC** for dataset and model artifact versioning
-* Built preprocessing pipelines for text cleaning and tokenization
-* Performed **exploratory data analysis (EDA)** on text data
-* Fine-tuned **DistilBERT** for sentiment classification
-* Developed reproducible ML pipelines with parameter tracking and dependency management
+_**Data Analysis & EDA Focus**_
 
-_**Experimentation & Deployment**_
+* Cleaned and preprocessed the Kaggle **Student Performance in Exams** dataset by handling missing values, duplicates, and data inconsistencies
+* Conducted exploratory data analysis to uncover patterns and relationships between exam scores and demographic variables
+* Performed statistical analysis and correlation analysis across math, reading, and writing scores
+* Engineered meaningful features and calculated key performance indicators (KPIs) for student performance evaluation
 
-* Integrated **MLflow** for experiment tracking, hyperparameter logging, and model versioning
-* Designed evaluation workflows including accuracy, precision, recall, F1-score, and confusion matrix
-* Built **RESTful Flask API** for real-time and batch sentiment predictions
-* Created automated **CI/CD pipelines** using GitHub Actions for testing, training, and deployment
-* Containerized the application using **Docker** for consistent deployments
-* Implemented monitoring-ready endpoints for production health checks and model performance tracking
+_**Data Visualization & Insights**_
+
+* Built multiple visualization types including histograms, bar charts, scatter plots, box plots, and heatmaps
+* Used Seaborn, Matplotlib, and Plotly to visually communicate trends, correlations, and distribution patterns
+* Identified key performance drivers such as parental education level, lunch type, and test preparation courses
+
+_**Interactive Dashboard Development**_
+
+* Developed a **Streamlit-based interactive analytics dashboard** for dynamic exploration of student performance data
+* Implemented filters and KPIs allowing users to explore results by gender, race/ethnicity, education level, and exam category
+* Designed an intuitive interface to make complex data insights accessible for non-technical users
+
+_**Deployment & Data Application Engineering**_
+
+* Deployed the Streamlit application using **Streamlit Community Cloud**
+* Integrated GitHub for version control and automated deployment workflows
+* Enabled cloud-based access for interactive exploration of insights from anywhere
 
 _**Skills Demonstrated**_
 
-* Machine Learning & NLP: Transfer Learning, Sentiment Analysis, Transformer Models  
-* MLOps Tools: DVC, MLflow, CI/CD pipelines  
-* Programming: Python  
-* Deployment & DevOps: Flask API, Docker, GitHub Actions  
-* Data Engineering: Versioning, Pipeline Orchestration  
-* Cloud & Production Concepts: Model Serving, Reproducibility
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Preprocessing
+* Statistical Analysis & Correlation Analysis
+* Interactive Data Visualization
+* Dashboard Development with Streamlit
+* Cloud Deployment & Version Control
 
-**Goal:** Deliver an **industry-standard, production-ready MLOps pipeline** for NLP sentiment analysis that demonstrates best practices in experiment tracking, deployment, and reproducibility.
+**Goal:** Demonstrate the ability to perform end-to-end exploratory data analysis, build interactive dashboards, and deploy Python-based data applications that transform raw datasets into accessible and actionable insights.
 
 ---
 
-### 📉 Telco Customer Churn Prediction — Machine Learning Pipeline Project
+### 🔄 DVC CSV Tracker — Data Version Control with Git & DVC
 
-[https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)
+https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git
 
-An end-to-end **machine learning pipeline project** to predict **customer churn** for a telecommunications company using real-world business data. The project follows the complete **ML lifecycle**, from exploratory data analysis and preprocessing to model development, hyperparameter tuning, and deployment-ready model serialization.
+A practical **data version control project** demonstrating how to integrate **DVC (Data Version Control) with Git** to manage and track changes in structured CSV datasets. The project highlights how modern data teams maintain **reproducibility, data integrity, and collaborative workflows** by versioning datasets alongside code.
 
-This project emphasizes **reproducibility, automated testing, and CI/CD workflows**, demonstrating best practices for building production-ready ML systems.
+This project focuses on **data versioning workflows commonly used in MLOps and data engineering pipelines**, ensuring that dataset changes are traceable, reproducible, and synchronized with source code repositories.
 
-**Status:** ⚙️ In Progress  
-**Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, PyTest, GitHub Actions, Joblib, Jupyter Notebook
+**Status:** ✅ Completed  
+**Core Stack:** Git, GitHub, DVC (Data Version Control), CSV Data Handling, Command Line Tools
 
-_**Machine Learning & Analytics Focus**_
+_**Data Versioning & MLOps Focus**_
 
-* Conducted Exploratory Data Analysis (EDA) to understand customer behavior and churn patterns
-* Computed statistical summaries including distributions, correlations, and hypothesis testing
-* Built preprocessing pipelines for missing value handling, categorical encoding, and feature scaling
-* Implemented stratified train-test splitting to preserve class distribution
-* Developed multiple ML models: Logistic Regression, KNN, Decision Tree, Random Forest, XGBoost
-* Addressed class imbalance using **SMOTE** techniques
-* Evaluated models using Accuracy, Precision, Recall, F1-score, ROC-AUC, confusion matrices, and ROC curves
-* Performed hyperparameter tuning with GridSearchCV and RandomizedSearchCV
-* Selected and serialized the best-performing model and scaler for production use
+* Initialized and configured **DVC within a Git repository** to manage dataset versioning
+* Tracked structured CSV datasets using **DVC data tracking mechanisms**
+* Maintained reproducible dataset history while separating **data artifacts from source code**
+* Demonstrated reproducible workflows commonly used in **machine learning and data science pipelines**
 
-_**Systems & MLOps Direction**_
+_**Workflow & Engineering Practices**_
 
-* Automated testing using **PyTest**
-* CI/CD pipelines implemented with **GitHub Actions** for reproducibility and deployment readiness
-* Data visualization for model insights using **Matplotlib** and **Seaborn**
-* Workflow version control and experiment tracking using **Git** and **Jupyter Notebook**
+* Used DVC commands such as `dvc init` and `dvc add` to track dataset changes
+* Managed dataset metadata files (.dvc) and repository configurations
+* Committed DVC metadata and configuration files to Git for version control
+* Simulated dataset updates and maintained version history through Git commits
+* Pushed repository updates to GitHub to enable collaborative data project workflows
 
 _**Skills Demonstrated**_
 
-* Python programming for ML pipelines
-* Data preprocessing & feature engineering
-* Model evaluation & hyperparameter optimization
-* Ensemble learning with XGBoost
-* Imbalanced data handling and statistical analysis
-* CI/CD for ML workflows
-* Model serialization and deployment readiness
+* Git & GitHub version control
+* Data Version Control (DVC)
+* Reproducible data science workflows
+* CSV dataset management
+* Command-line based data engineering workflows
+* Collaboration practices in data-driven projects
 
-**Goal:** Build a production-ready ML pipeline that predicts customer churn, provides actionable business insights, and demonstrates reproducible, automated, and deployment-ready ML workflows.
+**Goal:** Demonstrate how to build reproducible data science workflows by integrating Git and DVC for dataset versioning, enabling scalable collaboration and reliable data pipeline management.
+
+---
+
+### 📊 Student Performance Analysis — Python Data Exploration Project
+
+https://github.com/nagasantoshchavvakula/Student-Performance-Analysis
+
+A Python-based **data analysis project** designed to explore and summarize student performance datasets using **Pandas**. The project demonstrates how structured CSV data can be programmatically processed to extract meaningful insights through statistical analysis and exploratory data techniques.
+
+This project focuses on **data exploration, statistical computation, and structured data handling**, highlighting how Python can be used to quickly analyze datasets and generate performance insights for decision-making.
+
+**Status:** ✅ Completed  
+**Core Stack:** Python, Pandas, CSV Data Processing, Descriptive Statistics
+
+_**Data Analysis Focus**_
+
+* Reading and processing structured student datasets from CSV files using Pandas
+* Performing exploratory data analysis (EDA) on student attributes such as scores and age
+* Calculating statistical metrics including mean, median, standard deviation, minimum, and maximum values
+* Extracting key information such as student names and previewing top records for quick dataset inspection
+* Generating descriptive summaries to identify performance patterns within the dataset
+
+_**Data Engineering & Code Quality Practices**_
+
+* Implemented structured data handling using Pandas DataFrames
+* Added robust exception handling for missing files and column inconsistencies
+* Designed reusable analysis scripts for quick dataset preview and insight generation
+* Demonstrated practical workflows for cleaning and summarizing real-world tabular datasets
+
+_**Skills Demonstrated**_
+
+* Python programming for data analysis
+* Pandas DataFrame manipulation
+* CSV data ingestion and transformation
+* Descriptive statistical analysis
+* Error handling and robust data processing
+
+**Goal:** Demonstrate the ability to analyze structured datasets using Python and Pandas, perform statistical analysis, and extract actionable insights through efficient data exploration workflows.
 
 ---
 
