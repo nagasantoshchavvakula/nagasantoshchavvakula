@@ -45,7 +45,7 @@ An end-to-end **machine learning pipeline project** to predict **customer churn*
 This project emphasizes **reproducibility, automated testing, and CI/CD workflows**, demonstrating best practices for building production-ready ML systems.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, PyTest, GitHub Actions, Joblib, Jupyter Notebook
+**Core Stack:** Python, Pandas, NumPy, Scikit-learn (Preprocessing, Model Development & Evaluation), XGBoost, Matplotlib, Seaborn, SMOTE (Imbalanced-learn), PyTest, GitHub Actions (CI/CD), Joblib (Model Serialization), Jupyter Notebook, Git
 
 _**Machine Learning & Analytics Focus**_
 
@@ -86,7 +86,7 @@ _**Skills Demonstrated**_
 An **end-to-end Machine Learning Lifecycle (MLOps) project** for sentiment analysis using **HuggingFace transformer models**. The project demonstrates industry-standard practices including **data versioning, experiment tracking, automated CI/CD pipelines, and cloud-ready deployment**. Transfer learning is applied to fine-tune a pre-trained NLP model for **binary sentiment classification**, ensuring scalable, reproducible, and production-ready ML workflows.
 
 **Status:** ⚙️ In Progress  
-**Core Stack:** Python, HuggingFace Transformers, PyTorch, DVC, MLflow, Flask, Docker, CI/CD Pipelines
+**Core Stack:** Python, HuggingFace Transformers (DistilBERT), PyTorch, Scikit-learn, DVC, MLflow, Flask, Docker, GitHub Actions (CI/CD)
 
 _**MLOps & Data Focus**_
 
@@ -128,7 +128,7 @@ The project focuses on building reusable Python functions that implement key mac
 This project emphasizes **clean data preparation, modular ML pipeline design, and reliable model evaluation**, reflecting practical machine learning development workflows used in analytics and AI systems.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, NumPy, Scikit-learn, Pytest
+**Core Stack:** Python, NumPy, scikit-learn, pytest, Git, GitHub
 
 _**Machine Learning Pipeline Focus**_
 
@@ -174,7 +174,7 @@ A production-style **data engineering project** that implements an automated pip
 This project simulates a **real-world enterprise data pipeline**, incorporating ETL orchestration, modular workflow design, and monitoring to ensure reliable processing of transactional data used for fraud analysis.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, Prefect, MySQL, SQL, Data Engineering Pipelines
+**Core Stack:** Python (Pandas, SQLAlchemy), Prefect (Workflow Orchestration), MySQL (Staging & Analytics), SQL (Analytical Queries), Data Engineering (ETL Pipelines, Feature Engineering, Data Modeling)
 
 ---
 
@@ -230,7 +230,7 @@ An end-to-end **data analytics pipeline** designed to analyze and visualize enga
 The system focuses on transforming raw social media datasets into **actionable engagement insights**, enabling exploration of metrics such as **views, likes, shares, comments, and trending patterns** through interactive dashboards.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, MySQL, Streamlit, DVC, Power BI
+**Core Stack:** Python, Pandas, NumPy, MySQL, Streamlit, Plotly, Matplotlib, DVC, Git, GitHub, Virtualenv, PowerBI
 
 _**Data Engineering & Analytics Focus**_
 
@@ -271,7 +271,7 @@ An end-to-end **data engineering and business intelligence project** designed to
 The project focuses on identifying **key regional and vehicle factors that drive high sales performance**, enabling data-driven decision-making through automated data pipelines and real-time business intelligence reporting.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Prefect, MySQL, Power BI, Excel
+**Core Stack:** Python (Pandas, SQLAlchemy), Prefect, MySQL, Power BI, Excel
 
 _**Data Engineering & ETL Pipeline**_
 
@@ -313,7 +313,7 @@ A Python-based **personal finance analytics system** designed to track expenses,
 This system focuses on **financial data analysis, automation, and reproducible data pipelines**, enabling users to monitor spending behavior, evaluate investment performance, and generate analytical reports for better financial decision-making.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, NumPy, Prefect, DVC, Matplotlib
+**Core Stack:** Python, Object-Oriented Programming (OOP), NumPy, pandas, Matplotlib, Prefect, DVC, Git
 
 _**Financial Analytics & Data Processing Focus**_
 
@@ -355,7 +355,7 @@ An end-to-end **data analysis and visualization project** focused on exploring t
 The project integrates **data preprocessing, statistical analysis, and interactive visualization** to enable dynamic exploration of student performance metrics, helping identify patterns across demographic, socioeconomic, and academic variables.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
+**Core Stack:** Python, pandas, NumPy, matplotlib, seaborn, plotly, Streamlit, GitHub, Cloud Deployment
 
 _**Data Analysis & EDA Focus**_
 
@@ -404,7 +404,7 @@ A practical **data version control project** demonstrating how to integrate **DV
 This project focuses on **data versioning workflows commonly used in MLOps and data engineering pipelines**, ensuring that dataset changes are traceable, reproducible, and synchronized with source code repositories.
 
 **Status:** ✅ Completed  
-**Core Stack:** Git, GitHub, DVC (Data Version Control), CSV Data Handling, Command Line Tools
+**Core Stack:** Git, GitHub, DVC (Data Version Control), CSV Data Management, MLOps Fundamentals, Reproducibility, Command-Line Tools  
 
 _**Data Versioning & MLOps Focus**_
 
@@ -443,7 +443,7 @@ A Python-based **data analysis project** designed to explore and summarize stude
 This project focuses on **data exploration, statistical computation, and structured data handling**, highlighting how Python can be used to quickly analyze datasets and generate performance insights for decision-making.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python, Pandas, CSV Data Processing, Descriptive Statistics
+**Core Stack:** Python, Pandas, CSV Handling, Data Analysis, Descriptive Statistics, Exception Handling   
 
 _**Data Analysis Focus**_
 
