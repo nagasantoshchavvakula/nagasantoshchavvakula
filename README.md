@@ -8,30 +8,66 @@ I don’t treat data analysis as isolated reports. I build analytics as end-to-e
 
 ---
 
-## 🚀 Focus Areas
+## 🌟 Academic Background
 
-* 📊 **Data Analytics & Insights** – Performing exploratory data analysis (EDA), statistical modeling, and KPI reporting to drive data-informed decision making.  
-* ⚙️ **Data Engineering & ETL Pipelines** – Designing and implementing scalable pipelines for ingesting, transforming, and integrating large datasets efficiently.  
-* 📈 **Data Visualization & Business Intelligence** – Developing interactive dashboards and reports with Tableau, Power BI, and Excel for actionable insights.  
-* 🤖 **Machine Learning & Predictive Analytics** – Building ML models for use cases like fraud detection, customer churn prediction, and sentiment analysis.  
-* ☁️ **Cloud Data Platforms & Architecture** – Leveraging AWS and Azure services to design scalable, reliable analytics workflows.  
+- 🎓 **Master of Science in Computer Science**  
+  *University of Central Missouri, USA | Aug 2015 - July 2019*  
+- 🎓 **Bachelor of Technology in Electrical and Electronics Engineering**  
+  *JB Institute of Engineering and Technology, India | Aug 2015 - July 2019*  
+  
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)  [![Mobile](https://img.shields.io/badge/-Mobile-green?style=flat&logo=whatsapp&logoColor=white)](tel:+19728803104)  
+
+---
+## 🛠️ Skills
+
+### Programming & Tools
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat-square&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-darkblue?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-lightblue?style=flat-square&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f3f3f3?style=flat-square&logo=scikit-learn&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-orange?style=flat-square&logo=alteryx&logoColor=white)
+![SSIS](https://img.shields.io/badge/-SSIS-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-blue?style=flat-square&logo=apache-airflow&logoColor=white)
+![Prefect](https://img.shields.io/badge/-Prefect-purple?style=flat-square&logo=prefect&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-darkblue?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat-square&logo=snowflake&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-red?style=flat-square&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-orange?style=flat-square&logo=apache-spark&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-blue?style=flat-square&logo=dvc&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=huggingface&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Key Areas of Expertise
 
-| Category | Tools |
-|--------|--------|
-| **Languages** | Python, SQL, R |
-| **Data Analysis** | Pandas, NumPy, SciPy, Scikit-learn |
-| **Visualization** | Tableau, Power BI, Excel |
-| **ETL & Workflow** | Alteryx, SSIS, Apache Airflow, Prefect |
-| **Databases** | MySQL, SQL Server, Snowflake, Redshift |
-| **Big Data** | Apache Spark |
-| **Cloud Platforms** | AWS (S3, Redshift, Athena), Azure Data Factory |
-| **ML & MLOps** | MLflow, DVC, HuggingFace |
-| **Tools** | Git, GitHub Actions, Streamlit, Docker |
-
+- Data Analytics & Insights (Exploratory Data Analysis, Statistical Modeling, KPI Reporting)
+- Data Engineering & ETL Pipelines (Scalable Data Ingestion, Transformation, Integration)
+- Data Visualization & Business Intelligence (Tableau, Power BI, Excel, Interactive Dashboards)
+- Machine Learning & Predictive Analytics (Supervised/Unsupervised Learning, Fraud Detection, Churn Prediction, Sentiment Analysis)
+- Neural Networks & Deep Learning (CNNs, DNNs, Transfer Learning)
+- Cloud Data Platforms & Architecture (AWS, Azure, Scalable Analytics Workflows)
+- Natural Language Processing (NLP, Text Analytics, HuggingFace Transformers)
 ---
 
 ## 📊 Featured Projects
@@ -497,13 +533,13 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 - **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – Production-ready ML pipeline predicting customer churn with automated workflows.  
 
 ---
+## 📈 GitHub Stats
 
-### 📫 Contact & Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagasantoshchavvakula&show_icons=true&theme=highcontrast)
 
-- 🐙 GitHub: [nagasantoshchavvakula](https://github.com/nagasantoshchavvakula)
-- 💼 LinkedIn: [Naga Santosh](https://www.linkedin.com/in/nagas914/) 
-- ✉️ Email: `nagasantoshchavvakula@gmail.com`
-- 📱 Mobile: `+1 972-880-3104`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast)
+
+![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast)
 
 ---
 
