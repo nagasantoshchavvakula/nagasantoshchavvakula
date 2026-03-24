@@ -1,17 +1,13 @@
-👋 Hi, I’m Nagasantosh
+# 👋 Hello, I’m Nagasantosh!
 
-💼 Data Analyst | Python • SQL • Excel • Tableau • Power BI | Data Engineering, Analytics & Machine Learning (ML)
-
-🧠 Engineer by training, data enthusiast by practice, and builder of scalable analytics pipelines, dashboards, and ML-driven systems. I specialize in turning raw, complex datasets into actionable insights, operational dashboards, and data-driven decisions for healthcare, finance, and business applications.
-
-I don’t treat data analysis as isolated reports. I build analytics as end-to-end, reproducible, and deployable systems. ☕
+Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of professional expertise. I’m passionate about turning complex data into actionable insights and building end-to-end analytics pipelines and dashboards. Skilled in Python, SQL, Excel, Tableau, Power BI, and machine learning, I help solve real-world business problems.
 
 ---
 
 ## 🌟 Academic Background
 
 - 🎓 **Master of Science in Computer Science**  
-  *University of Central Missouri, USA | Aug 2015 - July 2019*  
+  *University of Central Missouri, USA | Jan 2023 - May 2024*  
 - 🎓 **Bachelor of Technology in Electrical and Electronics Engineering**  
   *JB Institute of Engineering and Technology, India | Aug 2015 - July 2019*  
   
