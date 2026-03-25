@@ -537,12 +537,28 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 ---
 ## 📈 GitHub Stats
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagasantoshchavvakula&show_icons=true&theme=highcontrast)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast)
 
 ![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast)
+-->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=nagasantoshchavvakula&show_icons=true&theme=highcontrast" 
+       alt="GitHub Stats" 
+       style="width: 300px; max-width: 100%;"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast" 
+       alt="Top Languages" 
+       style="width: 300px; max-width: 100%;"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast" 
+       alt="Fork Stats" 
+       style="width: 300px; max-width: 100%;"/>
+
+</div>
 ---
 
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and connect if you'd like to collaborate.*
