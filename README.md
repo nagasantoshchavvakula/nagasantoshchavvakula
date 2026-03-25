@@ -1,9 +1,10 @@
 <!-- Typing Animation -->
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Nagasantosh+👋;Data+Analyst;Turning+Data+into+Business+Insights" />
 </p>
-
-<!-- # 👋 Hello, I’m Nagasantosh!-->
+-->
+# 👋 Hello, I’m Nagasantosh!
 
 Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of professional expertise. I’m passionate about turning complex data into actionable insights and building end-to-end analytics pipelines and dashboards. Skilled in Python, SQL, Excel, Tableau, Power BI, and machine learning, I help solve real-world business problems.
 
