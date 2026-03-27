@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ---
 ## 🛠️ Skills
 
-### Programming & Tools
+### Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)
@@ -550,28 +550,11 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 ---
 ## 📈 GitHub Stats
 
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagasantoshchavvakula&show_icons=true&theme=highcontrast)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast)
-
-![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast)
--->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nagasantoshchavvakula&show_icons=true&theme=highcontrast" 
-       alt="GitHub Stats" 
-       style="width: 300px; max-width: 100%;"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast" 
-       alt="Top Languages" 
-       style="width: 300px; max-width: 100%;"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast" 
-       alt="Fork Stats" 
-       style="width: 300px; max-width: 100%;"/>
-
-</div>
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagasantoshchavvakula&theme=highcontrast)
+![Streak Stats](https://streak-stats.demolab.com?user=nagasantoshchavvakula&theme=highcontrast)
 ---
+
 
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and connect if you'd like to collaborate.*
