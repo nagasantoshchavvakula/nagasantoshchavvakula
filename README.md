@@ -66,12 +66,14 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ---
 
 ## 🧠 Key Areas of Expertise
@@ -550,10 +552,10 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 ---
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast)
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast)
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagasantoshchavvakula&theme=highcontrast)
 ![Streak Stats](https://streak-stats.demolab.com?user=nagasantoshchavvakula&theme=highcontrast)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast)
 ---
 
 
