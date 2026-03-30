@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ---
 ###  🏡 Real Estate Price Prediction Engine — Machine Learning Pipeline Project
 
-[https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)
+[https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git)
 
 A comprehensive **regression-based machine learning pipeline** designed to predict **real estate property prices** using advanced statistical modeling, unsupervised learning, and recommendation systems. This project simulates a real-world pricing platform for buyers, sellers, and agents to make **data-driven property valuation decisions**.
 
