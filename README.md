@@ -89,6 +89,51 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 
 ## 📊 Featured Projects
 
+---
+###  🏡 Real Estate Price Prediction Engine — Machine Learning Pipeline Project
+
+[https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)
+
+A comprehensive **regression-based machine learning pipeline** designed to predict **real estate property prices** using advanced statistical modeling, unsupervised learning, and recommendation systems. This project simulates a real-world pricing platform for buyers, sellers, and agents to make **data-driven property valuation decisions**.
+
+The project follows a complete **end-to-end ML lifecycle**, integrating regression modeling, clustering for market segmentation, recommendation systems, and ensemble learning for improved predictive performance.
+
+**Status:** ⚙️ In Progress  
+**Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, PCA (Dimensionality Reduction), PyTest, GitHub Actions (CI/CD), Streamlit, Joblib, Jupyter Notebook, Git  
+
+_**MLOps & Data Focus**_
+
+* Implemented structured data pipelines for preprocessing, feature engineering, and transformation
+* Performed comprehensive **exploratory data analysis (EDA)** to uncover pricing trends and feature relationships
+* Handled missing values, categorical encoding, and feature scaling for robust model performance
+* Applied **Principal Component Analysis (PCA)** for dimensionality reduction and multicollinearity handling
+* Built modular and reusable ML components for regression, clustering, and recommendation systems
+* Ensured reproducibility through organized workflows, version control, and notebook-based experimentation
+
+_**Experimentation & Deployment**_
+
+* Trained and evaluated multiple regression models including Linear, Ridge, Lasso, ElasticNet, Random Forest, and Gradient Boosting
+* Performed hyperparameter tuning using **GridSearchCV** and **RandomizedSearchCV**
+* Designed evaluation pipelines using RMSE, MAE, and R² for regression performance comparison
+* Implemented clustering workflows (K-Means, Hierarchical, DBSCAN) with validation using Silhouette Score
+* Built recommendation systems (content-based, collaborative, hybrid) for personalized property suggestions
+* Developed ensemble models (Voting & Stacking) to improve predictive accuracy
+* Created an interactive **Streamlit dashboard** for real-time predictions and insights
+* Integrated automated testing using **PyTest** and CI/CD pipelines via **GitHub Actions**
+
+_**Skills Demonstrated**_
+
+* Machine Learning: Regression Modeling, Clustering, Recommendation Systems, Ensemble Learning
+* Data Science: EDA, Feature Engineering, Dimensionality Reduction (PCA)
+* Programming: Python (Pandas, NumPy, Scikit-learn)
+* Visualization: Matplotlib, Seaborn
+* MLOps: CI/CD Pipelines, Automated Testing (PyTest), Workflow Management
+* Deployment: Streamlit Dashboard, Model Serialization (Joblib)
+* Analytical Thinking: Model Evaluation, Performance Optimization, Business Insights
+
+**Goal:** Deliver a **production-ready real estate pricing engine** that combines regression modeling, market segmentation, and recommendation systems demonstrating scalable machine learning workflows, strong analytical capabilities, and deployment-ready solutions.
+
+---
 ### 📉 Telco Customer Churn Prediction — Machine Learning Pipeline Project
 
 [https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)
