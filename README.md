@@ -260,7 +260,7 @@ _**Skills Demonstrated**_
 
 ### 🛒 Ecommerce Fraud Detection — End-to-End Pipeline
 
-https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline
+[https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline](https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline)
 
 A production-style **data engineering project** that implements an automated pipeline for detecting fraudulent e-commerce transactions. The system processes raw transaction data, performs cleaning and feature engineering, and loads analytics-ready datasets into a MySQL analytics layer to support fraud monitoring and BI dashboards.
 
@@ -316,7 +316,7 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 
 ### 📱 YouTube–TikTok Short Form Video Analytics — End-to-End Data Analytics Pipeline
 
-https://github.com/nagasantoshchavvakula/YouTube-TikTok-Short-Form-Video-Analytics
+[https://github.com/nagasantoshchavvakula/YouTube-TikTok-Short-Form-Video-Analytics](https://github.com/nagasantoshchavvakula/YouTube-TikTok-Short-Form-Video-Analytics)
 
 An end-to-end **data analytics pipeline** designed to analyze and visualize engagement trends from **short-form video platforms such as YouTube Shorts and TikTok**. The project demonstrates the complete analytics lifecycle — from raw data ingestion to interactive dashboard visualization — using **MySQL, Python, DVC, and Streamlit**.
 
@@ -357,7 +357,7 @@ _**Engineering Practices**_
 
 ### 🚗 Sales Performance Optimization Pipeline — End-to-End ETL & BI Analytics System
 
-https://github.com/nagasantoshchavvakula/bmw-car-sales_Performance-Optimization-Pipeline
+[https://github.com/nagasantoshchavvakula/bmw-car-sales_Performance-Optimization-Pipeline](https://github.com/nagasantoshchavvakula/bmw-car-sales_Performance-Optimization-Pipeline)
 
 An end-to-end **data engineering and business intelligence project** designed to automate the extraction, transformation, and loading (ETL) of vehicle sales data into a structured MySQL database while generating interactive analytics dashboards in Power BI.
 
@@ -399,7 +399,7 @@ _**Skills Demonstrated**_
 
 ### 💰 Personal Finance Tracker & Investment Portfolio Analyzer — Financial Analytics System
 
-https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer
+[https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer](https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer)
 
 A Python-based **personal finance analytics system** designed to track expenses, manage budgets, and analyze investment portfolios through automated data workflows. The project demonstrates the integration of **Python programming, financial modeling, and workflow orchestration** to transform raw financial data into actionable insights.
 
@@ -441,7 +441,7 @@ _**Skills Demonstrated**_
 
 ### 📊 Exploratory Data Analysis & Visualization of Student Performance — Interactive Analytics Dashboard
 
-https://github.com/nagasantoshchavvakula/EDA_Student_Performance
+[https://github.com/nagasantoshchavvakula/EDA_Student_Performance](https://github.com/nagasantoshchavvakula/EDA_Student_Performance)
 
 An end-to-end **data analysis and visualization project** focused on exploring the factors influencing student exam performance using a Kaggle dataset. The project demonstrates how Python-based data analytics workflows can transform raw educational datasets into meaningful insights through **exploratory data analysis, statistical visualization, and interactive dashboards**.
 
@@ -490,7 +490,7 @@ _**Skills Demonstrated**_
 
 ### 🔄 DVC CSV Tracker — Data Version Control with Git & DVC
 
-https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git
+[https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git](https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git)
 
 A practical **data version control project** demonstrating how to integrate **DVC (Data Version Control) with Git** to manage and track changes in structured CSV datasets. The project highlights how modern data teams maintain **reproducibility, data integrity, and collaborative workflows** by versioning datasets alongside code.
 
@@ -529,7 +529,7 @@ _**Skills Demonstrated**_
 
 ### 📊 Student Performance Analysis — Python Data Exploration Project
 
-https://github.com/nagasantoshchavvakula/Student-Performance-Analysis
+[https://github.com/nagasantoshchavvakula/Student-Performance-Analysis](https://github.com/nagasantoshchavvakula/Student-Performance-Analysis)
 
 A Python-based **data analysis project** designed to explore and summarize student performance datasets using **Pandas**. The project demonstrates how structured CSV data can be programmatically processed to extract meaningful insights through statistical analysis and exploratory data techniques.
 
@@ -562,6 +562,57 @@ _**Skills Demonstrated**_
 * Error handling and robust data processing
 
 **Goal:** Demonstrate the ability to analyze structured datasets using Python and Pandas, perform statistical analysis, and extract actionable insights through efficient data exploration workflows.
+
+---
+
+## 📌 Internship & Project Experience
+
+### 🧑‍💻 Full Stack Web Development Internship — CodeCraft
+- Completed a **1-month virtual internship (May–June 2025)**
+- Gained hands-on experience in **full-stack development using Spring Boot & React**
+- Demonstrated strong problem-solving, technical skills, and project execution
+- Awarded **Certificate & Letter of Recommendation**
+
+📄 [View Certificate & LOR](./Certificate%20%26%20LOR.pdf)
+
+## 📂 Projects
+
+### 🔐 Secure User Authentication System
+- Built a **JWT-based authentication system** with login & registration
+- Implemented **BCrypt password hashing** and secure session handling
+- Designed **Spring Security-based protected APIs**
+- Integrated React frontend with protected routes
+
+[https://github.com/nagasantoshchavvakula/Secure-User-Authentication-System.git](https://github.com/nagasantoshchavvakula/Secure-User-Authentication-System.git)
+
+---
+
+### 👨‍💼 Employee Management System (EMS)
+- Developed a full-stack **CRUD application with JWT authentication**
+- Admin can manage employee records securely
+- Implemented **Spring Boot REST APIs + React frontend**
+- Includes validation and role-based access control
+
+[https://github.com/nagasantoshchavvakula/Employee-Management-System.git](https://github.com/nagasantoshchavvakula/Employee-Management-System.git)
+
+---
+
+### 🌐 Social Media Application
+- Built a full-stack app with **posts, likes, comments, and follow system**
+- Implemented **JWT authentication and secure REST APIs**
+- Developed responsive UI with React and backend with Spring Boot
+
+[https://github.com/nagasantoshchavvakula/Social-Media-App.git](https://github.com/nagasantoshchavvakula/Social-Media-App.git)
+
+---
+
+### 💬 Real-Time Chat Application
+- Developed a **real-time chat system using WebSockets**
+- Supports **multiple chat rooms and persistent chat history**
+- Implemented **JWT-based authentication**
+- Tech: Spring Boot, WebSocket, React, SockJS, StompJS
+
+[https://github.com/nagasantoshchavvakula/Real-Time-Chat-Application.git](https://github.com/nagasantoshchavvakula/Real-Time-Chat-Application.git)
 
 ---
 
