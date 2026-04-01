@@ -565,18 +565,31 @@ _**Skills Demonstrated**_
 
 ---
 
-## 📌 Internship & Project Experience
-
-### 🧑‍💻 Full Stack Web Development Internship — CodeCraft
+## 🚀 Full-Stack Projects & Internship Experience — CodeCraft
 <!-- - Completed a **1-month virtual internship (May–June 2025)** -->
 - Gained hands-on experience in **full-stack development using Spring Boot & React**
 - Demonstrated strong problem-solving, technical skills, and project execution
-- Awarded **Certificate & Letter of Recommendation**
+- Awarded **Certificate & Letter of Recommendation** 📄 [View Certificate & LOR](./Certificate%20%26%20LOR.pdf)
 
-📄 [View Certificate & LOR](./Certificate%20%26%20LOR.pdf)
+_**Skills:**_
 
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=green)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDE](https://img.shields.io/badge/-IntelliJ%20IDE-black?style=flat-square&logo=intellijidea&logoColor=white)
 <!-- ## 📂 Projects -->
-
+_**Web Development Projects:**_
 ### 🔐 Secure User Authentication System
 - Built a **JWT-based authentication system** with login & registration
 - Implemented **BCrypt password hashing** and secure session handling
