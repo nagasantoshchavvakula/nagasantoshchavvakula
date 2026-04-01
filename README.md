@@ -19,12 +19,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
   
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
-
----
-## 🛠️ Skills
+## 🧰 Core Tech Stack
 
 ### Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
@@ -595,13 +590,22 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 - **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – Production-ready ML pipeline predicting customer churn with automated workflows.  
 
 ---
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast)
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagasantoshchavvakula&theme=highcontrast)
-![Streak Stats](https://streak-stats.demolab.com?user=nagasantoshchavvakula&theme=highcontrast)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagasantoshchavvakula&theme=highcontrast&v=1)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagasantoshchavvakula&theme=highcontrast&v=1)
+<!-- ![Streak Stats](https://streak-stats.demolab.com?user=nagasantoshchavvakula&theme=highcontrast) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast&langs_count=8&cache_seconds=1800) -->
+
 ---
 
+<!-- ## 🌐 Connect with Me -->
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=nagasantoshchavvakula) -->
+
+---
 
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and connect if you'd like to collaborate.*
