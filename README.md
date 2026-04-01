@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 - Natural Language Processing (NLP, Text Analytics, HuggingFace Transformers)
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Projects As Data Science Intern
 
 ---
 ###  🏡 Real Estate Price Prediction Engine — Machine Learning Pipeline Project
@@ -565,7 +565,7 @@ _**Skills Demonstrated**_
 
 ---
 
-## 🚀 Full-Stack Projects & Internship Experience — CodeCraft
+## 🚀 Full-Stack Projects & Internship Experience — **role:** Full Stack Web Development Intern
 <!-- - Completed a **1-month virtual internship (May–June 2025)** -->
 - Gained hands-on experience in **full-stack development using Spring Boot & React**
 - Demonstrated strong problem-solving, technical skills, and project execution
