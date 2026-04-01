@@ -565,7 +565,7 @@ _**Skills Demonstrated**_
 
 ---
 
-## 🚀 Full-Stack Projects & Internship Experience — **role:** Full Stack Web Development Intern
+## 🚀 Full-Stack Projects & Internship Experience — **Role:** _**Full Stack Web Development Intern**_
 <!-- - Completed a **1-month virtual internship (May–June 2025)** -->
 - Gained hands-on experience in **full-stack development using Spring Boot & React**
 - Demonstrated strong problem-solving, technical skills, and project execution
