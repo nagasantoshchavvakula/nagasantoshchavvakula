@@ -568,14 +568,14 @@ _**Skills Demonstrated**_
 ## 📌 Internship & Project Experience
 
 ### 🧑‍💻 Full Stack Web Development Internship — CodeCraft
-- Completed a **1-month virtual internship (May–June 2025)**
+<!-- - Completed a **1-month virtual internship (May–June 2025)** -->
 - Gained hands-on experience in **full-stack development using Spring Boot & React**
 - Demonstrated strong problem-solving, technical skills, and project execution
 - Awarded **Certificate & Letter of Recommendation**
 
 📄 [View Certificate & LOR](./Certificate%20%26%20LOR.pdf)
 
-## 📂 Projects
+<!-- ## 📂 Projects -->
 
 ### 🔐 Secure User Authentication System
 - Built a **JWT-based authentication system** with login & registration
@@ -585,8 +585,6 @@ _**Skills Demonstrated**_
 
 [https://github.com/nagasantoshchavvakula/Secure-User-Authentication-System.git](https://github.com/nagasantoshchavvakula/Secure-User-Authentication-System.git)
 
----
-
 ### 👨‍💼 Employee Management System (EMS)
 - Developed a full-stack **CRUD application with JWT authentication**
 - Admin can manage employee records securely
@@ -595,16 +593,12 @@ _**Skills Demonstrated**_
 
 [https://github.com/nagasantoshchavvakula/Employee-Management-System.git](https://github.com/nagasantoshchavvakula/Employee-Management-System.git)
 
----
-
 ### 🌐 Social Media Application
 - Built a full-stack app with **posts, likes, comments, and follow system**
 - Implemented **JWT authentication and secure REST APIs**
 - Developed responsive UI with React and backend with Spring Boot
 
 [https://github.com/nagasantoshchavvakula/Social-Media-App.git](https://github.com/nagasantoshchavvakula/Social-Media-App.git)
-
----
 
 ### 💬 Real-Time Chat Application
 - Developed a **real-time chat system using WebSockets**
