@@ -5,9 +5,15 @@
 </p>
 -->
 # 👋 Hello, I’m Nagasantosh!
-
+<!--
 Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of professional expertise. I’m passionate about turning complex data into actionable insights and building end-to-end analytics pipelines and dashboards. Skilled in Python, SQL, Excel, Tableau, Power BI, and machine learning, I help solve real-world business problems.
-
+-->
+- 👀 I’m interested in Data Science & Analytics, Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, and building scalable data-driven solutions
+- 🌱 I’m currently learning AI/ML model development, MLOps (MLflow, DVC, CI/CD), deep learning architectures, NLP with transformers, and end-to-end data engineering pipelines
+- 💞️ I’m looking to collaborate on projects related to Data Science, AI/ML systems, MLOps pipelines, data engineering workflows, and real-world analytics solutions across domains
+- 🚀 I enjoy working on end-to-end projects including predictive modeling, recommendation systems, NLP applications, ETL pipelines, and interactive dashboards
+- 📊 Skilled in Python, SQL, machine learning frameworks (Scikit-learn, TensorFlow, PyTorch), data visualization, cloud platforms, and workflow orchestration tools
+  
 ---
 
 ## 🌟 Academic Background
@@ -17,6 +23,11 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 - 🎓 **Bachelor of Technology in Electrical and Electronics Engineering**  
   *JB Institute of Engineering and Technology, India | Aug 2015 - July 2019*  
   
+---
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
+
 ---
 
 ## 🧰 Core Tech Stack
@@ -658,10 +669,11 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 ---
 
 <!-- ## 🌐 Connect with Me -->
+<!--
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
-
+-->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=nagasantoshchavvakula) -->
 
 ---
