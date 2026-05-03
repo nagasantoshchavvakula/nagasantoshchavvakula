@@ -104,7 +104,7 @@ A comprehensive **regression-based machine learning pipeline** designed to predi
 
 The project follows a complete **end-to-end ML lifecycle**, integrating regression modeling, clustering for market segmentation, recommendation systems, and ensemble learning for improved predictive performance.
 
-**Status:** ⚙️ In Progress  
+**Status:** ✅ Completed  
 **Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Matplotlib, Seaborn, PCA (Dimensionality Reduction), PyTest, GitHub Actions (CI/CD), Streamlit, Joblib, Jupyter Notebook, Git  
 
 _**MLOps & Data Focus**_
