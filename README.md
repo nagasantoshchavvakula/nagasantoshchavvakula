@@ -677,6 +677,4 @@ Here are some of my selected projects demonstrating **end-to-end workflows**:
 -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=nagasantoshchavvakula) -->
 
----
-
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and connect if you'd like to collaborate.*
