@@ -636,15 +636,16 @@ _**Web Development Projects:**_
 
 ## 🎯 Career Focus
 
-I enjoy building **data-driven systems that combine analytics, engineering, and machine learning** to solve real-world business problems.
+I enjoy building **data-driven systems that combine analytics, engineering, artificial intelligence and machine learning** to solve real-world business problems.
 
 Current interests include:
 
-- Data analytics & visualization
-- Data engineering pipelines
-- Machine learning applications
-- MLOps and scalable ML systems
-- Cloud-based analytics platforms
+- Data analytics & visualization  
+- Data engineering pipelines  
+- Machine learning & AI applications  
+- Deep learning & neural networks  
+- MLOps and scalable ML systems  
+- Cloud-based analytics and AI platforms  
 
 ---
 ## 📂 Projects & Portfolio
