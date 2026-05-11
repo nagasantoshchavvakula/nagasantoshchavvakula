@@ -101,13 +101,16 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 
 ## 🧠 Key Areas of Expertise
 
-- Data Analytics & Insights (Exploratory Data Analysis, Statistical Modeling, KPI Reporting)
-- Data Engineering & ETL Pipelines (Scalable Data Ingestion, Transformation, Integration)
-- Data Visualization & Business Intelligence (Tableau, Power BI, Excel, Interactive Dashboards)
-- Machine Learning & Predictive Analytics (Supervised/Unsupervised Learning, Fraud Detection, Churn Prediction, Sentiment Analysis)
-- Neural Networks & Deep Learning (CNNs, DNNs, Transfer Learning)
-- Cloud Data Platforms & Architecture (AWS, Azure, Scalable Analytics Workflows)
-- Natural Language Processing (NLP, Text Analytics, HuggingFace Transformers)
+- **Data Analytics & Business Intelligence** (Exploratory Data Analysis, Statistical Analysis, KPI Reporting, Dashboard Development, Business Insights)
+- **Machine Learning & Predictive Modeling** (Regression, Classification, Clustering, Recommendation Systems, Fraud Detection, Churn Prediction)
+- **Deep Learning & Computer Vision** (CNNs, DNNs, Transfer Learning, Medical Image Classification, Ensemble Learning, Explainable AI)
+- **Natural Language Processing (NLP)** (Sentiment Analysis, Transformer Models, HuggingFace, Text Preprocessing, Transfer Learning)
+- **Data Engineering & ETL Pipelines** (Data Ingestion, Transformation, Workflow Automation, Batch Processing, Analytics Pipelines)
+- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, Automated Testing, Experiment Tracking, Reproducibility)
+- **Model Optimization & Evaluation** (Hyperparameter Tuning, Cross Validation, ROC-AUC, Confusion Matrix, Performance Analysis)
+- **Cloud & Scalable Analytics Systems** (AWS, Azure, Docker, Streamlit, Cloud-Based ML Workflows)
+- **Data Visualization & Interactive Dashboards** (Power BI, Tableau, Plotly, Streamlit, Matplotlib, Seaborn)
+- **Software Engineering & Workflow Automation** (Git, GitHub Actions, Modular Pipelines, API Integration, Workflow Orchestration)
 ---
 
 ## 📊 Featured Projects As Data Science Intern
