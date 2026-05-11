@@ -80,6 +80,23 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C2D91?style=flat-square&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=flat-square&logo=tensorflow&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Ensemble Learning](https://img.shields.io/badge/-Ensemble%20Learning-006400?style=flat-square&logo=scikitlearn&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/-Explainable%20AI-4B0082?style=flat-square&logo=tensorflow&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/-GradCAM-FF4500?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-1E90FF?style=flat-square&logo=tensorflow&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/-MobileNetV2-0F9D58?style=flat-square&logo=tensorflow&logoColor=white)
+![VGG16](https://img.shields.io/badge/-VGG16-4285F4?style=flat-square&logo=tensorflow&logoColor=white)
+![ResNet50](https://img.shields.io/badge/-ResNet50-DB4437?style=flat-square&logo=tensorflow&logoColor=white)
+![PCA](https://img.shields.io/badge/-PCA-003B57?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-222222?style=flat-square&logo=github-actions&logoColor=white)
+![Joblib](https://img.shields.io/badge/-Joblib-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ---
 
 ## 🧠 Key Areas of Expertise
