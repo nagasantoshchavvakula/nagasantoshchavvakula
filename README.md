@@ -139,21 +139,14 @@ _**Deep Learning & Data Pipeline Focus**_
 
 _**Model Development, Evaluation & MLOps**_
 
-* Developed and trained **Baseline MLP** and **Advanced Deep Neural Network** architectures using **TensorFlow** and **Keras**
-* Implemented **Transfer Learning** models including **MobileNetV2**, **VGG16**, and **ResNet50** for medical image classification
-* Applied **fine-tuning techniques** by selectively unfreezing pretrained layers for performance optimization
-* Configured training workflows using **EarlyStopping**, **ModelCheckpoint**, **ReduceLROnPlateau**, and **TensorBoard** callbacks
-* Performed experimentation with **activation functions**, **optimizers**, **regularization techniques**, and **learning rate scheduling strategies**
-* Designed custom learning rate schedules including **Step Decay**, **Cosine Annealing**, and **Warmup Scheduling**
-* Built **ensemble learning models** using **soft-voting techniques** to improve classification accuracy and robustness
-* Designed evaluation pipelines using **Accuracy**, **Precision**, **Recall**, **F1-Score**, **ROC-AUC**, **Confusion Matrix**, and **Classification Report**
-* Conducted performance analysis using **ROC Curves** and **confusion matrix visualizations**
-* Implemented **Grad-CAM visualization** for **Explainable AI (XAI)** and deep learning model interpretability
-* Performed comparative analysis across **baseline**, **transfer learning**, and **ensemble models**
-* Integrated automated testing workflows using **PyTest** for validation across all project phases
-* Managed dataset tracking and version control using **DVC**, **Git**, and **GitHub**
-* Structured scalable deep learning workflows using **modular pipelines**, **reusable components**, and **notebook-based experimentation**
-* Followed **production-oriented deep learning engineering** and **MLOps best practices**
+* Developed and optimized **Baseline MLP**, **Deep Neural Networks**, and **Transfer Learning models** using TensorFlow and Keras for medical image classification
+* Implemented pretrained architectures including **MobileNetV2**, **VGG16**, and **ResNet50** with fine-tuning for enhanced model performance
+* Applied advanced training strategies using **EarlyStopping**, **ModelCheckpoint**, **ReduceLROnPlateau**, **TensorBoard**, and custom learning rate scheduling
+* Performed experimentation with **activation functions**, **optimizers**, **regularization techniques**, and **hyperparameter optimization**
+* Built **ensemble learning models** using soft-voting techniques to improve prediction accuracy and robustness
+* Designed end-to-end evaluation pipelines using **Accuracy, Precision, Recall, F1-Score, ROC-AUC, Confusion Matrix,** and **ROC Curves**
+* Implemented **Grad-CAM based Explainable AI (XAI)** techniques for model interpretability and medical image visualization
+* Integrated **PyTest, DVC, Git, GitHub, modular pipelines,** and **MLOps best practices** for scalable and reproducible deep learning workflows
 
 _**Skills Demonstrated**_
 
