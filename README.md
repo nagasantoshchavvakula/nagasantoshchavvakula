@@ -8,11 +8,11 @@
 <!--
 Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of professional expertise. I’m passionate about turning complex data into actionable insights and building end-to-end analytics pipelines and dashboards. Skilled in Python, SQL, Excel, Tableau, Power BI, and machine learning, I help solve real-world business problems.
 -->
-- 👀 I’m interested in Data Science & Analytics, Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, and building scalable data-driven solutions
-- 🌱 I’m currently learning AI/ML model development, MLOps (MLflow, DVC, CI/CD), deep learning architectures, NLP with transformers, and end-to-end data engineering pipelines
-- 💞️ I’m looking to collaborate on projects related to Data Science, AI/ML systems, MLOps pipelines, data engineering workflows, and real-world analytics solutions across domains
-- 🚀 I enjoy working on end-to-end projects including predictive modeling, recommendation systems, NLP applications, ETL pipelines, and interactive dashboards
-- 📊 Skilled in Python, SQL, machine learning frameworks (Scikit-learn, TensorFlow, PyTorch), data visualization, cloud platforms, and workflow orchestration tools
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, MLOps, Data Engineering, and building scalable AI-driven analytics solutions
+- 🌱 I’m currently learning advanced AI/ML model development, transfer learning architectures, transformer-based NLP systems, MLOps workflows (MLflow, DVC, CI/CD), cloud-based ML deployment, and scalable data engineering pipelines
+- 💞️ I’m looking to collaborate on projects related to Machine Learning, Deep Learning, Computer Vision, NLP, MLOps, ETL/Data Engineering pipelines, cloud analytics platforms, and real-world AI applications
+- 🚀 I enjoy building end-to-end projects involving predictive analytics, recommendation systems, fraud detection, medical image classification, sentiment analysis, workflow automation, and interactive dashboard solutions
+- 📊 Skilled in Python, SQL, Scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers, data visualization tools, cloud technologies, workflow orchestration frameworks, and production-oriented ML pipelines
   
 ---
 
