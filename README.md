@@ -98,7 +98,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ---
 ###  🩺 Image Classification for Medical Diagnosis — Deep Learning Pipeline Project
 
-[https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git)
+[https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis.git](https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis.git)
 
 A comprehensive **deep learning-based medical image classification pipeline** designed to detect **Pneumonia from Chest X-ray images** using advanced neural networks, transfer learning architectures, explainable AI, and ensemble learning techniques. This project simulates a real-world healthcare diagnostic system for assisting medical professionals in making **data-driven clinical predictions.**
 
