@@ -96,6 +96,61 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ## 📊 Featured Projects As Data Science Intern
 
 ---
+###  🩺 Image Classification for Medical Diagnosis — Deep Learning Pipeline Project
+
+[https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git)
+
+A comprehensive **deep learning-based medical image classification pipeline** designed to detect **Pneumonia from Chest X-ray images** using advanced neural networks, transfer learning architectures, explainable AI, and ensemble learning techniques. This project simulates a real-world healthcare diagnostic system for assisting medical professionals in making **data-driven clinical predictions.**
+
+The project follows a complete end-to-end deep learning lifecycle, integrating image preprocessing, neural network training, transfer learning, optimization strategies, explainable AI visualizations, and ensemble-based prediction systems for improved classification performance and model interpretability.
+
+**Status:** ⚙️ In Progress   
+**Core Stack:** Python, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, DVC, PyTest, GitHub Actions (CI/CD), Jupyter Notebook, Git  
+
+_**Deep Learning & Data Pipeline Focus**_
+
+* Implemented structured image data loading pipelines using TensorFlow and Keras ImageDataGenerator
+* Performed image preprocessing, normalization, augmentation, and dataset balancing using class weights
+* Built scalable and reusable deep learning workflows for training, evaluation, and inference
+* Applied data augmentation techniques including rotation, zoom, flipping, width/height shifting for robust generalization
+* Managed dataset versioning and reproducibility using DVC (Data Version Control)
+* Conducted comprehensive experimentation and notebook-driven analysis for model comparison and optimization
+* Maintained modular project architecture with separate components for data loading, model building, training, and evaluation
+
+_**Model Development, Evaluation & MLOps**_
+
+* Developed and trained **Baseline MLP** and **Advanced Deep Neural Network** architectures using **TensorFlow** and **Keras**
+* Implemented **Transfer Learning** models including **MobileNetV2**, **VGG16**, and **ResNet50** for medical image classification
+* Applied **fine-tuning techniques** by selectively unfreezing pretrained layers for performance optimization
+* Configured training workflows using **EarlyStopping**, **ModelCheckpoint**, **ReduceLROnPlateau**, and **TensorBoard** callbacks
+* Performed experimentation with **activation functions**, **optimizers**, **regularization techniques**, and **learning rate scheduling strategies**
+* Designed custom learning rate schedules including **Step Decay**, **Cosine Annealing**, and **Warmup Scheduling**
+* Built **ensemble learning models** using **soft-voting techniques** to improve classification accuracy and robustness
+* Designed evaluation pipelines using **Accuracy**, **Precision**, **Recall**, **F1-Score**, **ROC-AUC**, **Confusion Matrix**, and **Classification Report**
+* Conducted performance analysis using **ROC Curves** and **confusion matrix visualizations**
+* Implemented **Grad-CAM visualization** for **Explainable AI (XAI)** and deep learning model interpretability
+* Performed comparative analysis across **baseline**, **transfer learning**, and **ensemble models**
+* Integrated automated testing workflows using **PyTest** for validation across all project phases
+* Managed dataset tracking and version control using **DVC**, **Git**, and **GitHub**
+* Structured scalable deep learning workflows using **modular pipelines**, **reusable components**, and **notebook-based experimentation**
+* Followed **production-oriented deep learning engineering** and **MLOps best practices**
+
+_**Skills Demonstrated**_
+
+* Deep Learning: Neural Networks, Transfer Learning, Ensemble Learning
+* Computer Vision: Medical Image Classification, Chest X-ray Analysis
+?* Explainable AI: Grad-CAM Visualization
+* Machine Learning: Model Evaluation, Hyperparameter Optimization
+* Data Processing: Image Augmentation, Preprocessing, Dataset Balancing
+* Programming: Python, TensorFlow, Keras, NumPy, Pandas
+* Visualization: Matplotlib, Seaborn
+* MLOps: DVC, Automated Testing (PyTest), Workflow Management
+* Version Control: Git, GitHub
+* Analytical Thinking: Model Optimization, Diagnostic Performance Analysis
+
+**Goal:** Deliver a **production-ready medical image classification engine** that combines deep learning, transfer learning, explainable AI, and ensemble learning techniques to demonstrate scalable healthcare AI workflows, strong analytical capabilities, and deployment-ready deep learning solutions.
+
+---
 ###  🏡 Real Estate Price Prediction Engine — Machine Learning Pipeline Project
 
 [https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction.git)
