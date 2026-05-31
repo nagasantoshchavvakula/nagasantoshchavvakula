@@ -24,6 +24,21 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
   *JB Institute of Engineering and Technology, India | Aug 2015 - July 2019*  
   
 ---
+
+## 🏆 Certifications
+
+[![Microsoft Fabric Data Engineer](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+
+[![SnowPro Core](https://img.shields.io/badge/Snowflake-SnowPro_Core_Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
+
+[![AWS ML Engineer Associate](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
+### Certified In
+- 🔷 Microsoft Fabric Data Engineering
+- ❄️ Snowflake Cloud Data Platform
+- ☁️ AWS Machine Learning Engineering & MLOps
+
+---
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
