@@ -733,14 +733,39 @@ Current interests include:
 ---
 ## 📂 Projects & Portfolio
 
-Here are some of my selected projects demonstrating **end-to-end workflows**:
+## 📂 Projects & Portfolio
 
-- **[Student Performance Analysis](https://github.com/nagasantoshchavvakula/Student-Performance-Analysis)** – Python-based EDA and statistical analysis of student datasets.  
-- **[DVC CSV Tracker](https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git)** – Data version control using DVC & Git for reproducible ML pipelines.  
-- **[Personal Finance Tracker & Investment Portfolio Analyzer](https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer)** – Automated Python system for financial insights.  
-- **[Ecommerce Fraud Detection](https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline)** – End-to-end ETL and analytics pipeline for detecting fraudulent transactions.  
-- **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – HuggingFace NLP pipeline with DVC, MLflow, and Docker deployment.  
-- **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – Production-ready ML pipeline predicting customer churn with automated workflows.  
+Here are some of my featured projects demonstrating expertise in **Data Analytics, Machine Learning, Deep Learning, MLOps, Data Engineering, and Full-Stack Development**:
+
+### 🤖 AI, Machine Learning & Deep Learning
+
+- **[Image Classification for Medical Diagnosis](https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis)** – End-to-end deep learning pipeline for pneumonia detection using CNNs, Transfer Learning (MobileNetV2, VGG16, ResNet50), Grad-CAM explainability, ensemble learning, DVC, and CI/CD workflows.
+- **[Real Estate Price Prediction Engine](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction)** – Production-ready ML system combining regression models, clustering, recommendation systems, ensemble learning, Streamlit deployment, and automated testing.
+- **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – End-to-end ML pipeline using XGBoost, SMOTE, hyperparameter tuning, CI/CD, and deployment-ready model serialization.
+- **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – Transformer-based NLP solution using DistilBERT, DVC, MLflow, Docker, Flask APIs, and GitHub Actions.
+
+### ⚙️ Data Engineering & Analytics
+
+- **[Ecommerce Fraud Detection Pipeline](https://github.com/nagasantoshchavvakula/Ecommerce-Fraud-Detection-End-to-End-Data-Pipeline)** – Automated ETL pipeline using Python, Prefect, MySQL, and fraud analytics for detecting suspicious e-commerce transactions.
+- **[YouTube–TikTok Short Form Video Analytics](https://github.com/nagasantoshchavvakula/YouTube-TikTok-Short-Form-Video-Analytics)** – End-to-end analytics platform with MySQL, DVC, Streamlit, and Power BI dashboards for social media engagement analysis.
+- **[Sales Performance Optimization Pipeline](https://github.com/nagasantoshchavvakula/bmw-car-sales_Performance-Optimization-Pipeline)** – Automated ETL and BI reporting solution leveraging Python, Prefect, MySQL, and Power BI.
+- **[DVC CSV Tracker](https://github.com/nagasantoshchavvakula/Data_Version_Control_With-DVC_And_Git)** – Demonstrates reproducible data science workflows using Git and DVC for dataset versioning and management.
+
+### 📊 Data Analytics & Financial Systems
+
+- **[Personal Finance Tracker & Investment Portfolio Analyzer](https://github.com/nagasantoshchavvakula/Personal-Finance-Tracker-and-Investment-Portfolio-Analyzer)** – Python-based financial analytics system using OOP, NumPy, Pandas, Prefect, and DVC for budgeting and portfolio analysis.
+- **[Student Performance Analysis](https://github.com/nagasantoshchavvakula/Student-Performance-Analysis)** – Exploratory data analysis and statistical insights generation using Python and Pandas.
+- **[Student Performance Interactive Dashboard](https://github.com/nagasantoshchavvakula/EDA_Student_Performance)** – Streamlit-powered analytics dashboard featuring interactive visualizations and educational performance insights.
+
+### 🌐 Full-Stack Development
+
+- **[Employee Management System](https://github.com/nagasantoshchavvakula/Employee-Management-System)** – Full-stack CRUD application with Spring Boot, React, JWT authentication, validation, and role-based access control.
+
+- **[Secure User Authentication System](https://github.com/nagasantoshchavvakula/Secure-User-Authentication-System)** – Spring Security and JWT-based authentication platform featuring secure login, registration, BCrypt password hashing, and protected REST APIs.
+
+- **[Social Media Application](https://github.com/nagasantoshchavvakula/Social-Media-App)** – Full-stack social networking platform built with Spring Boot and React, supporting posts, likes, comments, user profiles, follow/unfollow functionality, JWT authentication, and secure REST APIs.
+
+- **[Real-Time Chat Application](https://github.com/nagasantoshchavvakula/Real-Time-Chat-Application)** – Real-time messaging platform using Spring Boot, WebSockets, React, SockJS, and STOMP, featuring multiple chat rooms, persistent chat history, live communication, and JWT-based authentication.
 
 ---
 ## 📊 GitHub Stats
