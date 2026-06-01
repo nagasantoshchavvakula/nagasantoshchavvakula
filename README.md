@@ -169,7 +169,7 @@ The project follows a complete end-to-end **Generative AI and Retrieval-Augmente
 **Status:** ⚙️ In Progress   
 **Core Stack:** Python, Streamlit, LangChain, Groq Llama3, HuggingFace Embeddings, FAISS, PyPDFLoader, Sentence Transformers, python-dotenv, Git, GitHub
 
-****Generative AI, NLP & Document Intelligence Focus***
+***Generative AI, NLP & Document Intelligence Focus***
 
 * Built an end-to-end **Document QA ChatBot** using **Retrieval-Augmented Generation (RAG)** architecture
 * Implemented PDF ingestion, text extraction, chunking, and semantic retrieval using **PyPDFLoader**, **LangChain**, and **FAISS**
