@@ -4,16 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Nagasantosh+👋;Data+Analyst;Turning+Data+into+Business+Insights" />
 </p>
 -->
-# 👋 Hello, I’m Nagasantosh!
+# 👋 Hello, I'm Nagasantosh!
 <!--
 Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of professional expertise. I’m passionate about turning complex data into actionable insights and building end-to-end analytics pipelines and dashboards. Skilled in Python, SQL, Excel, Tableau, Power BI, and machine learning, I help solve real-world business problems.
 -->
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, MLOps, Data Engineering, and building scalable AI-driven analytics solutions
-- 🌱 I’m currently learning advanced AI/ML model development, transfer learning architectures, transformer-based NLP systems, MLOps workflows (MLflow, DVC, CI/CD), cloud-based ML deployment, and scalable data engineering pipelines
-- 💞️ I’m looking to collaborate on projects related to Machine Learning, Deep Learning, Computer Vision, NLP, MLOps, ETL/Data Engineering pipelines, cloud analytics platforms, and real-world AI applications
-- 🚀 I enjoy building end-to-end projects involving predictive analytics, recommendation systems, fraud detection, medical image classification, sentiment analysis, workflow automation, and interactive dashboard solutions
-- 📊 Skilled in Python, SQL, Scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers, data visualization tools, cloud technologies, workflow orchestration frameworks, and production-oriented ML pipelines
-  
+
+* 🔍 Passionate about **Data Science, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, MLOps, Data Engineering, and Full-Stack Development**
+* 🚀 Currently building **end-to-end AI, Machine Learning, Deep Learning, Generative AI (RAG), Data Engineering, and Analytics solutions** using modern tools, frameworks, and cloud-ready architectures
+* 🌱 Continuously expanding expertise in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Transformer-based NLP, Transfer Learning, MLOps, Cloud AI Services, and Scalable Data Pipelines**
+* 🤝 Open to collaborating on **Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, Data Engineering, ETL Pipelines, Analytics Platforms, and Real-World AI Applications**
+* 💡 Experienced in developing projects involving **Predictive Analytics, Recommendation Systems, Fraud Detection, Medical Image Classification, Document Intelligence, Sentiment Analysis, Workflow Automation, and Interactive Dashboards**
+* 📊 Skilled in **Python, SQL, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain, Streamlit, Power BI, Tableau, MLflow, DVC, Docker, Git, GitHub, and Cloud-Based Data & AI Technologies**
+* 🏗️ Strong focus on **building scalable, production-ready applications** that combine data engineering, machine learning, deep learning, MLOps, and software engineering best practices
+* 🎯 Aspiring to contribute to innovative teams solving complex business problems through **AI-driven, data-centric solutions**
+
 ---
 
 ## 🌟 Academic Background
@@ -64,11 +68,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![ggplot](https://img.shields.io/badge/-ggplot-2C3E50?style=flat-square&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=black)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Qlik](https://img.shields.io/badge/-Qlik-009845?style=flat-square&logo=qlik&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Alteryx](https://img.shields.io/badge/-Alteryx-orange?style=flat-square&logo=alteryx&logoColor=white)
-![SSIS](https://img.shields.io/badge/-SSIS-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-blue?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Prefect](https://img.shields.io/badge/-Prefect-purple?style=flat-square&logo=prefect&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
@@ -85,6 +85,16 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/-DVC-blue?style=flat-square&logo=dvc&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=huggingface&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-0066CC?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7B68EE?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0096FF?style=flat-square&logo=meta&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-008080?style=flat-square&logo=databricks&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FF9900?style=flat-square&logo=huggingface&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-000000?style=flat-square&logo=groq&logoColor=white)
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-4CAF50?style=flat-square&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white)
@@ -113,22 +123,88 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-222222?style=flat-square&logo=github-actions&logoColor=white)
 ![Joblib](https://img.shields.io/badge/-Joblib-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ---
-
+<!--
+![Qlik](https://img.shields.io/badge/-Qlik-009845?style=flat-square&logo=qlik&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-orange?style=flat-square&logo=alteryx&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![SSIS](https://img.shields.io/badge/-SSIS-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+-->
 ## 🧠 Key Areas of Expertise
 
+- **Generative AI & Large Language Models (LLMs)** (Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Vector Databases, Semantic Search, Document Intelligence, AI-Powered Knowledge Retrieval)
 - **Data Analytics & Business Intelligence** (Exploratory Data Analysis, Statistical Analysis, KPI Reporting, Dashboard Development, Business Insights)
 - **Machine Learning & Predictive Modeling** (Regression, Classification, Clustering, Recommendation Systems, Fraud Detection, Churn Prediction)
 - **Deep Learning & Computer Vision** (CNNs, DNNs, Transfer Learning, Medical Image Classification, Ensemble Learning, Explainable AI)
-- **Natural Language Processing (NLP)** (Sentiment Analysis, Transformer Models, HuggingFace, Text Preprocessing, Transfer Learning)
-- **Data Engineering & ETL Pipelines** (Data Ingestion, Transformation, Workflow Automation, Batch Processing, Analytics Pipelines)
-- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, Automated Testing, Experiment Tracking, Reproducibility)
+- **Natural Language Processing (NLP)** (Sentiment Analysis, Transformer Models, Hugging Face, Text Preprocessing, Information Retrieval, Context-Aware AI Systems)
+- **Data Engineering & ETL Pipelines** (Data Ingestion, Transformation, Workflow Automation, Batch Processing, Data Pipelines, Workflow Orchestration)
+- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, Automated Testing, Experiment Tracking, Model Versioning, Reproducibility)
 - **Model Optimization & Evaluation** (Hyperparameter Tuning, Cross Validation, ROC-AUC, Confusion Matrix, Performance Analysis)
-- **Cloud & Scalable Analytics Systems** (AWS, Azure, Docker, Streamlit, Cloud-Based ML Workflows)
+- **Cloud & Scalable AI Systems** (AWS, Azure, Docker, Streamlit, Cloud-Based ML Workflows, Deployment-Ready AI Applications)
 - **Data Visualization & Interactive Dashboards** (Power BI, Tableau, Plotly, Streamlit, Matplotlib, Seaborn)
-- **Software Engineering & Workflow Automation** (Git, GitHub Actions, Modular Pipelines, API Integration, Workflow Orchestration)
+- **Software Engineering & Application Development** (Python, Java, Spring Boot, React, REST APIs, Git, GitHub Actions, Modular Architecture, Workflow Automation)
+
 ---
 
 ## 📊 Featured Projects As Data Science Intern
+
+---
+### 🤖 Document QA ChatBot — Retrieval-Augmented Generation (RAG) Application
+
+[https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git)
+
+A comprehensive **Retrieval-Augmented Generation (RAG) based Document Question Answering application** designed to enable users to interact with PDF documents using natural language. The system combines **Large Language Models (LLMs), vector databases, semantic search, document processing pipelines, and Generative AI techniques** to deliver accurate, context-aware responses directly from uploaded documents.
+
+This project simulates a real-world **Enterprise Knowledge Assistant** capable of extracting, indexing, retrieving, and generating insights from unstructured document data. By integrating modern AI frameworks and vector search technologies, the application demonstrates how organizations can build intelligent document understanding systems for research, compliance, legal analysis, customer support, and enterprise knowledge management use cases.
+
+The project follows a complete end-to-end **Generative AI and Retrieval-Augmented Generation lifecycle**, integrating document ingestion, text extraction, text chunking, embedding generation, vector indexing, semantic retrieval, prompt engineering, LLM-powered response generation, environment management, debugging, and deployment-ready application development.
+
+**Status:** ⚙️ In Progress   
+**Core Stack:** Python, Streamlit, LangChain, Groq Llama3, HuggingFace Embeddings, FAISS, PyPDFLoader, Sentence Transformers, python-dotenv, Git, GitHub
+
+****Generative AI, NLP & Document Intelligence Focus***
+
+* Built an end-to-end **Document QA ChatBot** using **Retrieval-Augmented Generation (RAG)** architecture
+* Implemented PDF ingestion, text extraction, chunking, and semantic retrieval using **PyPDFLoader**, **LangChain**, and **FAISS**
+* Generated vector embeddings using **HuggingFace BAAI/bge-small-en-v1.5** for efficient similarity search
+* Developed an interactive **Streamlit** interface for document-based question answering
+* Engineered prompt templates and retrieval workflows to deliver accurate, context-aware responses
+* Applied secure configuration management using **python-dotenv** and environment variables
+
+***LLM Integration & AI Application Development***
+
+* Integrated **Groq-hosted Llama3-8B-8192** for document-grounded answer generation
+* Built semantic search pipelines using **LangChain Retrieval Chains**, vector search, and prompt engineering
+* Optimized document retrieval through chunking strategies and embedding-based nearest-neighbor search
+* Developed scalable PDF processing and AI-powered knowledge retrieval workflows
+* Followed software engineering best practices including modular architecture, dependency management, version control, and reproducible development workflows
+
+***Problem Solving & Engineering Highlights***
+
+* Resolved **LangChain version compatibility**, **Python 3.13 dependency conflicts**, and **Streamlit configuration issues**
+* Migrated the project to **Python 3.11** for stable package compatibility
+* Implemented secure API key management by moving credentials from source code to environment variables
+* Improved maintainability through structured project organization and dependency pinning
+
+***Skills Demonstrated***
+
+* Generative AI: RAG, Prompt Engineering, LLM Integration
+* NLP: Semantic Search, Information Retrieval, Document Understanding
+* LLMs: Groq Llama3, Context-Aware Response Generation
+* Vector Databases: FAISS, Embedding-Based Search
+* AI Frameworks: LangChain, HuggingFace Embeddings
+* Document Processing: PDF Parsing, Text Chunking
+* Development: Python, Streamlit, API Integration
+* DevOps & Collaboration: Virtual Environments, Git, GitHub, Dependency Management
+
+**Goal:** Deliver a **production-ready Document Intelligence solution** that combines Retrieval-Augmented Generation, semantic search, vector databases, and Large Language Models to demonstrate real-world AI engineering, knowledge retrieval, and enterprise-scale document understanding capabilities.
 
 ---
 ###  🩺 Image Classification for Medical Diagnosis — Deep Learning Pipeline Project
@@ -731,7 +807,6 @@ Current interests include:
 - Cloud-based analytics and AI platforms  
 
 ---
-## 📂 Projects & Portfolio
 
 ## 📂 Projects & Portfolio
 
@@ -740,6 +815,7 @@ Here are some of my featured projects demonstrating expertise in **Data Analytic
 ### 🤖 AI, Machine Learning & Deep Learning
 
 - **[Image Classification for Medical Diagnosis](https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis)** – End-to-end deep learning pipeline for pneumonia detection using CNNs, Transfer Learning (MobileNetV2, VGG16, ResNet50), Grad-CAM explainability, ensemble learning, DVC, and CI/CD workflows.
+- **[Document QA ChatBot](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git)** – Retrieval-Augmented Generation (RAG) application leveraging Groq Llama3, LangChain, HuggingFace Embeddings, and FAISS for intelligent PDF document question answering, semantic search, context-aware response generation, and enterprise knowledge retrieval.
 - **[Real Estate Price Prediction Engine](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction)** – Production-ready ML system combining regression models, clustering, recommendation systems, ensemble learning, Streamlit deployment, and automated testing.
 - **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – End-to-end ML pipeline using XGBoost, SMOTE, hyperparameter tuning, CI/CD, and deployment-ready model serialization.
 - **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – Transformer-based NLP solution using DistilBERT, DVC, MLflow, Docker, Flask APIs, and GitHub Actions.
