@@ -32,15 +32,15 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ## 🏆 Certifications
 
 [![Microsoft Fabric Data Engineer](https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
-
 [![SnowPro Core](https://img.shields.io/badge/Snowflake-SnowPro_Core_Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
-
 [![AWS ML Engineer Associate](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner_-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 ### Certified In
 - 🔷 Microsoft Fabric Data Engineering
 - ❄️ Snowflake Cloud Data Platform
-- ☁️ AWS Machine Learning Engineering & MLOps
+- ☁️ AWS Machine Learning Engineering
+- 🚀 AWS Cloud Practitioner
 
 ---
 ## 🤝 Let’s Connect
