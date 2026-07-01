@@ -210,6 +210,60 @@ The project follows a complete end-to-end **Generative AI and Retrieval-Augmente
 **Goal:** Deliver a **production-ready Document Intelligence solution** that combines Retrieval-Augmented Generation, semantic search, vector databases, and Large Language Models to demonstrate real-world AI engineering, knowledge retrieval, and enterprise-scale document understanding capabilities.
 
 ---
+### ⚽ EPL Foul Win Probability Model — Sports Analytics & Machine Learning Application
+
+[https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model](https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model)
+
+A comprehensive **Sports Analytics and Machine Learning application** designed to predict the probability that a football player will **win a foul after receiving or recovering possession** during an English Premier League (EPL) match. The system combines **event-level football data, predictive modeling, feature engineering, possession analytics, statistical learning, and machine learning techniques** to generate actionable insights for player performance evaluation, tactical analysis, and match intelligence.
+
+This project simulates a real-world **Sports Analytics Decision Intelligence platform** capable of transforming large-scale football event data into predictive models for coaching, player scouting, opponent analysis, tactical planning, and performance optimization. By integrating modern data science techniques, machine learning algorithms, and reproducible software engineering practices, the application demonstrates how football clubs and sports organizations can leverage event-stream analytics to support data-driven decision making.
+
+The project follows a complete end-to-end **Machine Learning lifecycle**, integrating data ingestion, exploratory data analysis (EDA), target variable creation, feature engineering, predictive modeling, model evaluation, testing, configuration management, CI/CD automation, version control, and production-ready machine learning pipeline development.
+
+**Status:** ⚙️ In Progress   
+**Core Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Jupyter Notebook, PyTest, Git, GitHub Actions
+
+***Sports Analytics & Machine Learning Focus***
+
+* Built an end-to-end **football event prediction pipeline** using more than **1.3 million StatsBomb English Premier League event records**
+* Developed a supervised learning dataset by identifying **Ball Receipt*** and **Ball Recovery** events and generating binary target labels indicating whether the same player later won a foul during the same possession
+* Performed comprehensive **Exploratory Data Analysis (EDA)** including event distribution analysis, possession analysis, missing value analysis, dataset validation, and statistical exploration
+* Designed modular data preprocessing pipelines capable of transforming raw football event streams into machine learning-ready datasets
+* Engineered reusable Python modules with centralized configuration management, logging utilities, and reproducible data processing workflows
+
+***Machine Learning & Predictive Analytics***
+
+* Formulated the problem as a **binary classification task** for predicting foul-win probability following possession events
+* Designed scalable feature engineering pipelines incorporating **spatial, temporal, possession, pressure, event sequence, and match context features**
+* Developing multiple predictive models including **Logistic Regression**, **Random Forest**, **Gradient Boosting**, and **XGBoost** for comparative performance analysis
+* Planning comprehensive model evaluation using **Precision**, **Recall**, **F1-score**, **ROC-AUC**, **Precision-Recall AUC**, **Confusion Matrix**, and probability calibration techniques suitable for highly imbalanced sports datasets
+
+***Software Engineering & MLOps***
+
+* Designed a modular project architecture using reusable Python modules, centralized configuration management, logging, unit testing, and notebook-driven experimentation
+* Implemented automated testing using **PyTest** to validate data loading, target generation, and feature engineering pipelines
+* Integrated **GitHub Actions** for Continuous Integration (CI) with automated testing across multiple development branches
+* Applied professional Git workflows including feature branching, pull requests, version control, and reproducible software engineering practices
+
+***Problem Solving & Engineering Highlights***
+
+* Processed and analyzed more than **1.3 million football event records** across **380 English Premier League matches**
+* Built efficient event-processing pipelines to generate supervised learning datasets from sequential football possession data while maintaining scalability and reproducibility
+* Optimized target generation logic to identify foul-winning outcomes from chronological event sequences within the same possession
+* Established comprehensive data validation procedures to ensure dataset integrity before downstream feature engineering and machine learning model development
+* Structured the project using a production-oriented architecture with modular source code, reusable notebooks, automated testing, and CI/CD workflows
+
+***Skills Demonstrated***
+
+* Machine Learning: Binary Classification, Feature Engineering, Predictive Modeling, Model Evaluation
+* Sports Analytics: Football Event Analysis, Possession Analytics, Player Performance Modeling, Tactical Analysis
+* Data Science: Exploratory Data Analysis, Statistical Analysis, Data Visualization
+* Software Engineering: Modular Architecture, Logging, Configuration Management, Unit Testing
+* MLOps & Collaboration: GitHub Actions, Continuous Integration (CI), Git Workflow, Reproducible Machine Learning Pipelines
+
+**Goal:** Deliver a **production-ready Sports Analytics Machine Learning solution** that combines football event analytics, predictive modeling, feature engineering, and MLOps best practices to demonstrate real-world expertise in sports analytics, machine learning, software engineering, and data-driven performance optimization.
+
+---
 ###  🩺 Image Classification for Medical Diagnosis — Deep Learning Pipeline Project
 
 [https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis.git](https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis.git)
