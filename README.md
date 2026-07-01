@@ -161,7 +161,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ---
 ### 🧠 Multi-Modal Content Generation Platform — Deep Learning & Generative AI Application
 
-[https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform](https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform)
+[https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform.git](https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform.git)
 
 A comprehensive **Deep Learning and Generative AI application** designed to generate multi-modal content by combining **Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs/LSTMs), and Transformer-based Large Language Models** within a unified AI platform. The system integrates **computer vision, natural language processing, sequence modeling, transformer fine-tuning, and modern web technologies** to generate images, text, summaries, and AI-generated content through an interactive user interface.
 
@@ -931,13 +931,21 @@ Current interests include:
 
 Here are some of my featured projects demonstrating expertise in **Data Analytics, Machine Learning, Deep Learning, MLOps, Data Engineering, and Full-Stack Development**:
 
-### 🤖 AI, Machine Learning & Deep Learning
+### 🤖 Artificial Intelligence, Generative AI, Machine Learning & Deep Learning
+
+- **[Multi-Modal Content Generation Platform](https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform)** – End-to-end Deep Learning and Generative AI platform integrating CNN Autoencoders, RNN/LSTMs, GPT-2, BERT, T5, FastAPI, and Streamlit for image generation, text generation, summarization, sentiment analysis, and multi-modal AI content creation with automated testing and CI/CD workflows.
+
+- **[Document QA ChatBot](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot)** – Retrieval-Augmented Generation (RAG) application leveraging Groq Llama3, LangChain, HuggingFace Embeddings, and FAISS for intelligent PDF document question answering, semantic search, context-aware response generation, and enterprise knowledge retrieval.
 
 - **[Image Classification for Medical Diagnosis](https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis)** – End-to-end deep learning pipeline for pneumonia detection using CNNs, Transfer Learning (MobileNetV2, VGG16, ResNet50), Grad-CAM explainability, ensemble learning, DVC, and CI/CD workflows.
-- **[Document QA ChatBot](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git)** – Retrieval-Augmented Generation (RAG) application leveraging Groq Llama3, LangChain, HuggingFace Embeddings, and FAISS for intelligent PDF document question answering, semantic search, context-aware response generation, and enterprise knowledge retrieval.
-- **[Real Estate Price Prediction Engine](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction)** – Production-ready ML system combining regression models, clustering, recommendation systems, ensemble learning, Streamlit deployment, and automated testing.
-- **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – End-to-end ML pipeline using XGBoost, SMOTE, hyperparameter tuning, CI/CD, and deployment-ready model serialization.
-- **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – Transformer-based NLP solution using DistilBERT, DVC, MLflow, Docker, Flask APIs, and GitHub Actions.
+
+- **[EPL Foul Win Probability Model](https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model)** – End-to-end Sports Analytics and Machine Learning pipeline using StatsBomb event data to predict the probability of a player winning a foul after receiving or recovering possession through event analytics, feature engineering, predictive modeling, automated testing, and GitHub Actions CI/CD.
+
+- **[Real Estate Price Prediction Engine](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction)** – Production-ready machine learning system combining regression models, clustering, recommendation systems, ensemble learning, Streamlit deployment, automated testing, and reproducible ML workflows.
+
+- **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – End-to-end machine learning pipeline using XGBoost, SMOTE, hyperparameter optimization, feature engineering, CI/CD automation, and deployment-ready model serialization for customer retention analytics.
+
+- **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – Transformer-based NLP solution using DistilBERT, DVC, MLflow, Docker, Flask APIs, GitHub Actions, and MLOps best practices for scalable sentiment analysis.
 
 ### ⚙️ Data Engineering & Analytics
 
