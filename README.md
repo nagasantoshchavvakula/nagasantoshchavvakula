@@ -159,6 +159,65 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ## 📊 Featured Projects As Data Science Intern
 
 ---
+### 🧠 Multi-Modal Content Generation Platform — Deep Learning & Generative AI Application
+
+[https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform](https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform)
+
+A comprehensive **Deep Learning and Generative AI application** designed to generate multi-modal content by combining **Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs/LSTMs), and Transformer-based Large Language Models** within a unified AI platform. The system integrates **computer vision, natural language processing, sequence modeling, transformer fine-tuning, and modern web technologies** to generate images, text, summaries, and AI-generated content through an interactive user interface.
+
+This project simulates a real-world **Enterprise AI Content Generation Platform** capable of producing image, text, and transformer-based content using multiple neural network architectures. By integrating deep learning pipelines, modern NLP frameworks, REST APIs, and interactive web applications, the platform demonstrates how organizations can build intelligent AI systems for content creation, document generation, marketing automation, creative assistance, and enterprise productivity applications.
+
+The project follows a complete end-to-end **Deep Learning and Generative AI lifecycle**, integrating data preprocessing, neural network architecture design, model training, transfer learning, transformer fine-tuning, evaluation, API development, web application integration, testing, CI/CD automation, and deployment-ready AI application development.
+
+**Status:** ⚙️ In Progress   
+**Core Stack:** Python, PyTorch, Hugging Face Transformers, GPT-2, BERT, T5, CNN, LSTM, GRU, FastAPI, Streamlit, Scikit-learn, Matplotlib, PyTest, Git, GitHub Actions
+
+***Deep Learning & Multi-Modal AI Focus***
+
+* Built an end-to-end **Multi-Modal Content Generation Platform** integrating CNNs, RNNs/LSTMs, and Transformer-based language models within a unified AI workflow
+* Implemented image reconstruction and generation using **Convolutional Autoencoders**, residual learning, and latent space representations
+* Developed sequence modeling pipelines for character-level text generation, word-level language modeling, and sequence-to-sequence summarization using **RNN**, **LSTM**, and **GRU** architectures
+* Fine-tuned Transformer models including **GPT-2**, **BERT**, and **T5** for text generation, sentiment classification, summarization, and content creation
+* Designed modular deep learning pipelines supporting multi-modal AI inference through reusable and scalable software components
+
+***Generative AI & Neural Network Development***
+
+* Built image generation and reconstruction workflows using convolutional encoder-decoder architectures and transposed convolution layers
+* Implemented sequence-to-sequence learning with encoder-decoder architectures for intelligent text generation and summarization
+* Integrated Transformer-based Large Language Models for prompt-driven content generation, classification, and text-to-text learning tasks
+* Applied transfer learning, prompt engineering, fine-tuning, and inference optimization to improve generation quality across multiple AI models
+* Evaluated model performance using reconstruction loss, perplexity, BLEU score, classification metrics, and transformer generation quality measures
+
+***AI Platform Engineering & Full-Stack Integration***
+
+* Developed RESTful AI services using **FastAPI** for image generation, text generation, and transformer-based content creation
+* Built an interactive **Streamlit** web application enabling users to access all AI generation capabilities through a unified interface
+* Implemented configurable generation workflows with user-selectable models, inference parameters, and evaluation metrics
+* Designed scalable application architecture separating model training, inference services, API endpoints, and presentation layers
+
+***Problem Solving & Engineering Highlights***
+
+* Integrated multiple deep learning architectures into a single production-oriented AI platform supporting computer vision and natural language processing tasks
+* Optimized modular project organization for maintainability, extensibility, and reproducible experimentation
+* Implemented automated testing using **PyTest** to validate neural network components, API endpoints, and platform functionality
+* Integrated **GitHub Actions** for Continuous Integration (CI) with automated testing across deep learning modules and platform services
+* Applied software engineering best practices including modular architecture, dependency management, version control, reproducible pipelines, and CI/CD workflows
+
+***Skills Demonstrated***
+
+* Deep Learning: CNN, Autoencoders, Residual Networks, RNN, LSTM, GRU, Seq2Seq Models
+* Generative AI: GPT-2, BERT, T5, Prompt Engineering, Transformer Fine-Tuning
+* Computer Vision: Image Reconstruction, Latent Space Learning, Feature Extraction
+* Natural Language Processing: Text Generation, Summarization, Sentiment Analysis, Language Modeling
+* AI Frameworks: PyTorch, Hugging Face Transformers
+* Backend Development: FastAPI, REST APIs
+* Frontend Development: Streamlit
+* Software Engineering: Modular Architecture, Testing, Logging, Configuration Management
+* DevOps & Collaboration: GitHub Actions, Continuous Integration (CI), Git Workflow, Dependency Management
+
+**Goal:** Deliver a **production-ready Multi-Modal Generative AI platform** that combines computer vision, natural language processing, deep learning, transformer-based language models, and modern software engineering practices to demonstrate real-world expertise in AI application development, multi-modal content generation, and enterprise-scale intelligent systems.
+
+---
 ### 🤖 Document QA ChatBot — Retrieval-Augmented Generation (RAG) Application
 
 [https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git)
