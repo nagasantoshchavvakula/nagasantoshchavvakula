@@ -45,10 +45,11 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 - 🚀 AWS Cloud Practitioner
 
 ---
+<!--
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
-
+-->
 ---
 
 ## 🧰 Core Tech Stack
@@ -983,6 +984,9 @@ Here are some of my featured projects demonstrating expertise in **Data Analytic
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nagasantoshchavvakula&theme=highcontrast&v=1)
 <!-- ![Streak Stats](https://streak-stats.demolab.com?user=nagasantoshchavvakula&theme=highcontrast) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasantoshchavvakula&layout=compact&theme=highcontrast&langs_count=8&cache_seconds=1800) -->
+## 📈 Contribution Graph
+
+[![Nagasantosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagasantoshchavvakula&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -993,5 +997,9 @@ Here are some of my featured projects demonstrating expertise in **Data Analytic
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
 -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=nagasantoshchavvakula) -->
+## 🤝 Let’s Connect
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
+
+---
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and connect if you'd like to collaborate.*
