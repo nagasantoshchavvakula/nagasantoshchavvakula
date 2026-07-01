@@ -9,15 +9,14 @@
 Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of professional expertise. I’m passionate about turning complex data into actionable insights and building end-to-end analytics pipelines and dashboards. Skilled in Python, SQL, Excel, Tableau, Power BI, and machine learning, I help solve real-world business problems.
 -->
 
-* 🔍 Passionate about **Data Science, Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, MLOps, Data Engineering, and Full-Stack Development**
-* 🚀 Currently building **end-to-end AI, Machine Learning, Deep Learning, Generative AI (RAG), Data Engineering, and Analytics solutions** using modern tools, frameworks, and cloud-ready architectures
-* 🌱 Continuously expanding expertise in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Transformer-based NLP, Transfer Learning, MLOps, Cloud AI Services, and Scalable Data Pipelines**
-* 🤝 Open to collaborating on **Machine Learning, Deep Learning, Generative AI, Computer Vision, NLP, Data Engineering, ETL Pipelines, Analytics Platforms, and Real-World AI Applications**
-* 💡 Experienced in developing projects involving **Predictive Analytics, Recommendation Systems, Fraud Detection, Medical Image Classification, Document Intelligence, Sentiment Analysis, Workflow Automation, and Interactive Dashboards**
-* 📊 Skilled in **Python, SQL, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain, Streamlit, Power BI, Tableau, MLflow, DVC, Docker, Git, GitHub, and Cloud-Based Data & AI Technologies**
-* 🏗️ Strong focus on **building scalable, production-ready applications** that combine data engineering, machine learning, deep learning, MLOps, and software engineering best practices
-* 🎯 Aspiring to contribute to innovative teams solving complex business problems through **AI-driven, data-centric solutions**
-
+* 🔍 Passionate about **Artificial Intelligence, Generative AI, Machine Learning, Deep Learning, Computer Vision, NLP, Data Science, MLOps, Data Engineering, Sports Analytics, and Full-Stack AI Development**
+* 🚀 Building **end-to-end AI, Machine Learning, Generative AI (RAG), Data Engineering, and Analytics solutions** using modern frameworks, cloud-ready architectures, and production-grade software engineering practices
+* 🌱 Continuously learning **LLMs, Retrieval-Augmented Generation (RAG), Transformer-based NLP, Multi-Modal AI, Computer Vision, Transfer Learning, MLOps, Cloud AI Services, Vector Databases, and Scalable Data Pipelines**
+* 🤝 Open to collaborating on **AI, Generative AI, Machine Learning, Deep Learning, Computer Vision, NLP, Data Engineering, MLOps, Sports Analytics, ETL Pipelines, and Enterprise AI Solutions**
+* 💡 Hands-on experience building **RAG applications, Multi-Modal AI systems, Predictive Analytics, Sports Analytics, Medical Image Classification, Fraud Detection, Recommendation Systems, Document Intelligence, Sentiment Analysis, and Interactive Analytics Dashboards**
+* 📊 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain, FAISS, FastAPI, Streamlit, Power BI, Tableau, MLflow, DVC, Docker, Git, GitHub Actions, and Cloud Data & AI Technologies**
+* 🏗️ Focused on designing **scalable, production-ready AI systems** by applying software engineering best practices, MLOps, CI/CD, testing, model deployment, and reproducible machine learning pipelines
+* 🎯 Aspiring to build **AI-driven, data-centric solutions** that solve real-world business problems through advanced analytics, machine learning, and Generative AI.
 ---
 
 ## 🌟 Academic Background
@@ -88,6 +87,10 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/-DVC-blue?style=flat-square&logo=dvc&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/-BERT-FFB300?style=flat-square&logo=huggingface&logoColor=black)
+![GPT-2](https://img.shields.io/badge/-GPT--2-412991?style=flat-square&logo=openai&logoColor=white)
+![T5](https://img.shields.io/badge/-T5-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -99,6 +102,7 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![Groq](https://img.shields.io/badge/-Groq-000000?style=flat-square&logo=groq&logoColor=white)
 ![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-4CAF50?style=flat-square&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions&logoColor=white)
@@ -113,11 +117,14 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C2D91?style=flat-square&logo=opencv&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=flat-square&logo=tensorflow&logoColor=white)
+![LSTM](https://img.shields.io/badge/-LSTM-7E57C2?style=flat-square&logo=tensorflow&logoColor=white)
+![GRU](https://img.shields.io/badge/-GRU-8E24AA?style=flat-square&logo=tensorflow&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Ensemble Learning](https://img.shields.io/badge/-Ensemble%20Learning-006400?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Explainable AI](https://img.shields.io/badge/-Explainable%20AI-4B0082?style=flat-square&logo=tensorflow&logoColor=white)
 ![Grad-CAM](https://img.shields.io/badge/-GradCAM-FF4500?style=flat-square&logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/-CNN-1E90FF?style=flat-square&logo=tensorflow&logoColor=white)
+![Autoencoders](https://img.shields.io/badge/-Autoencoders-1565C0?style=flat-square&logo=tensorflow&logoColor=white)
 ![MobileNetV2](https://img.shields.io/badge/-MobileNetV2-0F9D58?style=flat-square&logo=tensorflow&logoColor=white)
 ![VGG16](https://img.shields.io/badge/-VGG16-4285F4?style=flat-square&logo=tensorflow&logoColor=white)
 ![ResNet50](https://img.shields.io/badge/-ResNet50-DB4437?style=flat-square&logo=tensorflow&logoColor=white)
@@ -142,17 +149,16 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 -->
 ## 🧠 Key Areas of Expertise
 
-- **Generative AI & Large Language Models (LLMs)** (Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Vector Databases, Semantic Search, Document Intelligence, AI-Powered Knowledge Retrieval)
-- **Data Analytics & Business Intelligence** (Exploratory Data Analysis, Statistical Analysis, KPI Reporting, Dashboard Development, Business Insights)
-- **Machine Learning & Predictive Modeling** (Regression, Classification, Clustering, Recommendation Systems, Fraud Detection, Churn Prediction)
-- **Deep Learning & Computer Vision** (CNNs, DNNs, Transfer Learning, Medical Image Classification, Ensemble Learning, Explainable AI)
-- **Natural Language Processing (NLP)** (Sentiment Analysis, Transformer Models, Hugging Face, Text Preprocessing, Information Retrieval, Context-Aware AI Systems)
-- **Data Engineering & ETL Pipelines** (Data Ingestion, Transformation, Workflow Automation, Batch Processing, Data Pipelines, Workflow Orchestration)
-- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, Automated Testing, Experiment Tracking, Model Versioning, Reproducibility)
-- **Model Optimization & Evaluation** (Hyperparameter Tuning, Cross Validation, ROC-AUC, Confusion Matrix, Performance Analysis)
-- **Cloud & Scalable AI Systems** (AWS, Azure, Docker, Streamlit, Cloud-Based ML Workflows, Deployment-Ready AI Applications)
-- **Data Visualization & Interactive Dashboards** (Power BI, Tableau, Plotly, Streamlit, Matplotlib, Seaborn)
-- **Software Engineering & Application Development** (Python, Java, Spring Boot, React, REST APIs, Git, GitHub Actions, Modular Architecture, Workflow Automation)
+- **Generative AI & Large Language Models (LLMs)** (Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Hugging Face, GPT, BERT, T5, Vector Databases, Semantic Search, Document Intelligence, AI-Powered Knowledge Retrieval)
+- **Machine Learning & Predictive Analytics** (Regression, Classification, Clustering, Recommendation Systems, Fraud Detection, Churn Prediction, Sports Analytics, Model Development)
+- **Deep Learning, Computer Vision & Multi-Modal AI** (CNNs, DNNs, Autoencoders, RNNs, LSTMs, Transfer Learning, Medical Image Classification, Multi-Modal Content Generation, Ensemble Learning, Explainable AI)
+- **Natural Language Processing (NLP)** (Transformer Models, Sentiment Analysis, Text Generation, Text Summarization, Information Retrieval, Context-Aware AI Systems)
+- **Data Analytics & Business Intelligence** (Exploratory Data Analysis, Statistical Analysis, KPI Reporting, Dashboard Development, Data Visualization, Business Insights)
+- **Data Engineering & ETL Pipelines** (Data Ingestion, Data Transformation, Workflow Automation, Batch Processing, ETL Pipelines, Workflow Orchestration)
+- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, GitHub Actions, Automated Testing, Experiment Tracking, Model Versioning, Reproducible Machine Learning)
+- **Model Optimization & Evaluation** (Feature Engineering, Hyperparameter Tuning, Cross Validation, ROC-AUC, Precision-Recall, Confusion Matrix, Performance Analysis)
+- **Cloud & Scalable AI Systems** (AWS, Azure, Docker, Streamlit, FastAPI, Cloud-Based ML Workflows, Deployment-Ready AI Applications)
+- **Software Engineering & Application Development** (Python, Java, SQL, Spring Boot, React, REST APIs, Git, GitHub, Modular Architecture, Workflow Automation)
 
 ---
 
