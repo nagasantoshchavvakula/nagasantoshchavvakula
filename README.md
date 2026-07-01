@@ -50,7 +50,6 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
 -->
----
 
 ## 🧰 Core Tech Stack
 
