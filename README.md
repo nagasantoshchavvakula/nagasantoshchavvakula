@@ -212,7 +212,7 @@ The project follows a complete end-to-end **Generative AI and Retrieval-Augmente
 ---
 ### ⚽ EPL Foul Win Probability Model — Sports Analytics & Machine Learning Application
 
-[https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model](https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model)
+[https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model.git](https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model.git)
 
 A comprehensive **Sports Analytics and Machine Learning application** designed to predict the probability that a football player will **win a foul after receiving or recovering possession** during an English Premier League (EPL) match. The system combines **event-level football data, predictive modeling, feature engineering, possession analytics, statistical learning, and machine learning techniques** to generate actionable insights for player performance evaluation, tactical analysis, and match intelligence.
 
