@@ -998,7 +998,7 @@ Here are some of my featured projects demonstrating expertise in **Data Analytic
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=nagasantoshchavvakula) -->
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagas914/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasantoshchavvakula/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/nagasantoshchavvakula)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nagasantoshchavvakula@gmail.com)
 
 ---
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and connect if you'd like to collaborate.*
