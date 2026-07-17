@@ -937,7 +937,7 @@ Current interests include:
 
 Here are some of my featured projects demonstrating expertise in **Data Analytics, Machine Learning, Deep Learning, MLOps, Data Engineering, and Full-Stack Development**:
 
-### 🤖 Artificial Intelligence, Generative AI, Machine Learning & Deep Learning
+### 🤖 Artificial Intelligence, Generative AI, Machine Learning, Data Science & Deep Learning
 
 - **[Multi-Modal Content Generation Platform](https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform)** – End-to-end Deep Learning and Generative AI platform integrating CNN Autoencoders, RNN/LSTMs, GPT-2, BERT, T5, FastAPI, and Streamlit for image generation, text generation, summarization, sentiment analysis, and multi-modal AI content creation with automated testing and CI/CD workflows.
 
