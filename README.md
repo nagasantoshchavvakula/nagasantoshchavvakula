@@ -337,7 +337,7 @@ A comprehensive **deep learning-based medical image classification pipeline** de
 
 The project follows a complete end-to-end deep learning lifecycle, integrating image preprocessing, neural network training, transfer learning, optimization strategies, explainable AI visualizations, and ensemble-based prediction systems for improved classification performance and model interpretability.
 
-**Status:** ⚙️ In Progress   
+**Status:**  ✅ Completed   
 **Core Stack:** Python, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, DVC, PyTest, GitHub Actions (CI/CD), Jupyter Notebook, Git  
 
 _**Deep Learning & Data Pipeline Focus**_
