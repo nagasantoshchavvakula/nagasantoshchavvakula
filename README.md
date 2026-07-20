@@ -190,6 +190,7 @@ The project follows a complete end-to-end **Deep Learning and Generative AI life
 
 * Built image generation and reconstruction workflows using convolutional encoder-decoder architectures and transposed convolution layers
 * Implemented sequence-to-sequence learning with encoder-decoder architectures for intelligent text generation and summarization
+* Optimized RNN/LSTM training using mini-batch sequence generation, gradient clipping, and standardized preprocessing, improving training efficiency and enabling reproducible evaluation with perplexity and BLEU metrics.
 * Integrated Transformer-based Large Language Models for prompt-driven content generation, classification, and text-to-text learning tasks
 * Applied transfer learning, prompt engineering, fine-tuning, and inference optimization to improve generation quality across multiple AI models
 * Evaluated model performance using reconstruction loss, perplexity, BLEU score, classification metrics, and transformer generation quality measures
