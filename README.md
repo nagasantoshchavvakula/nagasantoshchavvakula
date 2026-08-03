@@ -225,55 +225,70 @@ The project follows a complete end-to-end **Deep Learning and Generative AI life
 **Goal:** Deliver a **production-ready Multi-Modal Generative AI platform** that combines computer vision, natural language processing, deep learning, transformer-based language models, and modern software engineering practices to demonstrate real-world expertise in AI application development, multi-modal content generation, and enterprise-scale intelligent systems.
 
 ---
-### 🤖 Document QA ChatBot — Retrieval-Augmented Generation (RAG) Application
+### 🤖 Document QA ChatBot — Retrieval-Augmented Generation (RAG) for Intelligent Document Question Answering
 
 [https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot.git)
 
-A comprehensive **Retrieval-Augmented Generation (RAG) based Document Question Answering application** designed to enable users to interact with PDF documents using natural language. The system combines **Large Language Models (LLMs), vector databases, semantic search, document processing pipelines, and Generative AI techniques** to deliver accurate, context-aware responses directly from uploaded documents.
+A production-ready **Retrieval-Augmented Generation (RAG)** application that enables users to interact with **PDF, DOC, and DOCX** documents using natural language. The application combines **Large Language Models (LLMs), semantic search, vector embeddings, and document intelligence** to deliver accurate, context-aware answers grounded exclusively in the uploaded documents.
 
-This project simulates a real-world **Enterprise Knowledge Assistant** capable of extracting, indexing, retrieving, and generating insights from unstructured document data. By integrating modern AI frameworks and vector search technologies, the application demonstrates how organizations can build intelligent document understanding systems for research, compliance, legal analysis, customer support, and enterprise knowledge management use cases.
+Designed as an **Enterprise Document Intelligence Solution**, the chatbot demonstrates how modern AI systems can ingest, process, index, retrieve, and reason over unstructured documents for use cases such as enterprise knowledge management, compliance, legal analysis, research assistance, customer support, and document-centric AI applications.
 
-The project follows a complete end-to-end **Generative AI and Retrieval-Augmented Generation lifecycle**, integrating document ingestion, text extraction, text chunking, embedding generation, vector indexing, semantic retrieval, prompt engineering, LLM-powered response generation, environment management, debugging, and deployment-ready application development.
+The project implements a complete end-to-end **Generative AI and RAG pipeline**, including document ingestion, text extraction, intelligent chunking, embedding generation, vector indexing, semantic retrieval, prompt engineering, LLM-powered response generation, secure configuration management, temporary file handling, and a modern interactive web interface.
 
-**Status:** ⚙️ In Progress   
-**Core Stack:** Python, Streamlit, LangChain, Groq Llama3, HuggingFace Embeddings, FAISS, PyPDFLoader, Sentence Transformers, python-dotenv, Git, GitHub
+**Status:** ✅ Completed   
+**Core Stack:** Python, Streamlit, LangChain, Groq Llama 3, Hugging Face Embeddings, FAISS, PyPDFLoader, Docx2txtLoader, UnstructuredWordDocumentLoader, Sentence Transformers, python-dotenv, Git, GitHub
 
-***Generative AI, NLP & Document Intelligence Focus***
+***Generative AI & Document Intelligence***
 
-* Built an end-to-end **Document QA ChatBot** using **Retrieval-Augmented Generation (RAG)** architecture
-* Implemented PDF ingestion, text extraction, chunking, and semantic retrieval using **PyPDFLoader**, **LangChain**, and **FAISS**
-* Generated vector embeddings using **HuggingFace BAAI/bge-small-en-v1.5** for efficient similarity search
-* Developed an interactive **Streamlit** interface for document-based question answering
-* Engineered prompt templates and retrieval workflows to deliver accurate, context-aware responses
-* Applied secure configuration management using **python-dotenv** and environment variables
+* Built an end-to-end **Document QA ChatBot** using a modular **Retrieval-Augmented Generation (RAG)** architecture
+* Implemented document ingestion, parsing, chunking, embedding generation, semantic retrieval, and LLM-based answer generation
+* Integrated **PyPDFLoader**, **Docx2txtLoader**, and **UnstructuredWordDocumentLoader** for multi-format document processing
+* Generated dense vector embeddings using **BAAI/bge-small-en-v1.5** for efficient similarity search
+* Implemented semantic retrieval with **FAISS** to retrieve the most relevant document chunks
+* Engineered prompt templates to ensure responses remain grounded in the uploaded documents and reduce hallucinations
 
-***LLM Integration & AI Application Development***
+***LLM Integration & AI Engineering***
 
-* Integrated **Groq-hosted Llama3-8B-8192** for document-grounded answer generation
-* Built semantic search pipelines using **LangChain Retrieval Chains**, vector search, and prompt engineering
-* Optimized document retrieval through chunking strategies and embedding-based nearest-neighbor search
-* Developed scalable PDF processing and AI-powered knowledge retrieval workflows
-* Followed software engineering best practices including modular architecture, dependency management, version control, and reproducible development workflows
+* Integrated **Groq-hosted Llama 3** for high-performance document-grounded response generation
+* Built retrieval workflows using **LangChain Retrieval Chains**, prompt engineering, and semantic search
+* Optimized document retrieval through intelligent chunking strategies and embedding-based nearest-neighbor search
+* Developed scalable multi-document knowledge retrieval workflows suitable for enterprise document intelligence applications
 
-***Problem Solving & Engineering Highlights***
+***Software Engineering Highlights***
 
 * Resolved **LangChain version compatibility**, **Python 3.13 dependency conflicts**, and **Streamlit configuration issues**
-* Migrated the project to **Python 3.11** for stable package compatibility
-* Implemented secure API key management by moving credentials from source code to environment variables
-* Improved maintainability through structured project organization and dependency pinning
+* Refactored the project into a modular architecture (`app.py`, `rag.py`, `ui.py`, `utils.py`, `prompts.py`)
+* Implemented reusable document-processing and retrieval components
+* Added support for **multiple document formats (PDF, DOC, DOCX)** without affecting existing functionality
+* Improved maintainability through modular design and separation of concerns
+* Implemented secure temporary file handling to protect user privacy
+* Added comprehensive error handling for unsupported, corrupted, password-protected, and empty documents
+* Enhanced user experience with processing status indicators, chat history, source chunk visualization, and session management
+  
+***Engineering Challenges Solved***
 
+* Resolved **LangChain version compatibility** issues
+* Fixed **Python 3.13 dependency conflicts** by migrating to **Python 3.11**
+* Addressed Streamlit caching issues involving unhashable embedding objects
+* Improved upload pipeline stability through proper temporary file lifecycle management
+* Implemented secure API key management using **python-dotenv**
+* Prevented document persistence by ensuring uploaded files are processed only within the operating system's temporary directory
+  
 ***Skills Demonstrated***
 
-* Generative AI: RAG, Prompt Engineering, LLM Integration
-* NLP: Semantic Search, Information Retrieval, Document Understanding
-* LLMs: Groq Llama3, Context-Aware Response Generation
-* Vector Databases: FAISS, Embedding-Based Search
-* AI Frameworks: LangChain, HuggingFace Embeddings
-* Document Processing: PDF Parsing, Text Chunking
-* Development: Python, Streamlit, API Integration
-* DevOps & Collaboration: Virtual Environments, Git, GitHub, Dependency Management
+* Generative AI: Retrieval-Augmented Generation (RAG), Prompt Engineering, LLM Integration, Context-Aware Response Generation
+* Natural Language Processing (NLP): Semantic Search, Information Retrieval, Document Understanding, Vector Similarity Search
+* Large Language Models (LLMs): Groq Llama 3, LangChain Retrieval Chains
+* Vector Database: FAISS, Dense Vector Embeddings
+* Embeddings: Hugging Face Sentence Transformers, BAAI/bge-small-en-v1.5
+* Document Processing: PDF Parsing, Microsoft Word (DOC/DOCX) Processing, Text Extraction, Recursive Text Chunking
+* AI Frameworks & Libraries: LangChain, LangChain Community, LangChain HuggingFace, LangChain Groq
+* Frontend & Application Development: Streamlit, Interactive Chat UI, Session State Management
+* Software Engineering: Python, Modular Architecture, Error Handling, Temporary File Management, Secure Configuration Management
+* Security & Privacy: Environment Variables, Secure API Key Management, Temporary File Handling, Privacy-Focused Document Processing
+* Version Control & DevOps: Git, GitHub, Virtual Environments, Dependency Management
 
-**Goal:** Deliver a **production-ready Document Intelligence solution** that combines Retrieval-Augmented Generation, semantic search, vector databases, and Large Language Models to demonstrate real-world AI engineering, knowledge retrieval, and enterprise-scale document understanding capabilities.
+**Goal:** Develop a **production-ready AI-powered Document Intelligence platform** capable of processing multiple document formats and answering user questions through **Retrieval-Augmented Generation**, semantic search, vector databases, and Large Language Models while following secure, scalable, and enterprise-grade software engineering practices.
 
 ---
 ### ⚽ EPL Foul Win Probability Model — Sports Analytics & Machine Learning Application
