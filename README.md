@@ -55,98 +55,91 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 
 ### Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat-square&logo=pandas&logoColor=black)
-![NumPy](https://img.shields.io/badge/-NumPy-darkblue?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-lightblue?style=flat-square&logo=scipy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f3f3f3?style=flat-square&logo=scikit-learn&logoColor=blue)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C2D91?style=flat-square&logo=opencv&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/-Explainable%20AI-4B0082?style=flat-square&logo=tensorflow&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/-GradCAM-FF4500?style=flat-square&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GPT-4](https://img.shields.io/badge/-GPT--4%2F4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6B46C1?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-0066CC?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-7B68EE?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7B68EE?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FF9900?style=flat-square&logo=huggingface&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0096FF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4CAF50?style=flat-square&logo=huggingface&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat-square&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-darkblue?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-lightblue?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-4051B5?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white)
-![ggplot](https://img.shields.io/badge/-ggplot-2C3E50?style=flat-square&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-blue?style=flat-square&logo=apache-airflow&logoColor=white)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-blue?style=flat-square&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-000000?style=flat-square&logo=langchain&logoColor=white)
+![Ragas](https://img.shields.io/badge/-Ragas-7B68EE?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-blue?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Prefect](https://img.shields.io/badge/-Prefect-purple?style=flat-square&logo=prefect&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-orange?style=flat-square&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-orange?style=flat-square&logo=apache-spark&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-0078C2?style=flat-square&logo=alteryx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/-Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![Glue](https://img.shields.io/badge/-Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/-Azure%20ML-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/-Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-darkblue?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-lightblue?style=flat-square&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/-Redshift-red?style=flat-square&logo=amazon-aws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-orange?style=flat-square&logo=apache-spark&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange)
-![MLOps](https://img.shields.io/badge/-MLOps-0A192F?style=flat-square&logo=mlflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/-DVC-blue?style=flat-square&logo=dvc&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-orange?style=flat-square&logo=huggingface&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/-BERT-FFB300?style=flat-square&logo=huggingface&logoColor=black)
-![GPT-2](https://img.shields.io/badge/-GPT--2-412991?style=flat-square&logo=openai&logoColor=white)
-![T5](https://img.shields.io/badge/-T5-4285F4?style=flat-square&logo=google&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-0066CC?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7B68EE?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-0096FF?style=flat-square&logo=meta&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-008080?style=flat-square&logo=databricks&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/-Sentence%20Transformers-FF9900?style=flat-square&logo=huggingface&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-000000?style=flat-square&logo=groq&logoColor=white)
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-4CAF50?style=flat-square&logo=huggingface&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=flat-square&logo=streamlit&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-red?style=flat-square&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git&logoColor=white)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B23?style=flat-square&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C2D91?style=flat-square&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=flat-square&logo=tensorflow&logoColor=white)
-![LSTM](https://img.shields.io/badge/-LSTM-7E57C2?style=flat-square&logo=tensorflow&logoColor=white)
-![GRU](https://img.shields.io/badge/-GRU-8E24AA?style=flat-square&logo=tensorflow&logoColor=white)
-![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Ensemble Learning](https://img.shields.io/badge/-Ensemble%20Learning-006400?style=flat-square&logo=scikitlearn&logoColor=white)
-![Explainable AI](https://img.shields.io/badge/-Explainable%20AI-4B0082?style=flat-square&logo=tensorflow&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/-GradCAM-FF4500?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/-CNN-1E90FF?style=flat-square&logo=tensorflow&logoColor=white)
-![Autoencoders](https://img.shields.io/badge/-Autoencoders-1565C0?style=flat-square&logo=tensorflow&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/-MobileNetV2-0F9D58?style=flat-square&logo=tensorflow&logoColor=white)
-![VGG16](https://img.shields.io/badge/-VGG16-4285F4?style=flat-square&logo=tensorflow&logoColor=white)
-![ResNet50](https://img.shields.io/badge/-ResNet50-DB4437?style=flat-square&logo=tensorflow&logoColor=white)
-![PCA](https://img.shields.io/badge/-PCA-003B57?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-222222?style=flat-square&logo=github-actions&logoColor=white)
-![Joblib](https://img.shields.io/badge/-Joblib-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 ---
-<!--
-![Qlik](https://img.shields.io/badge/-Qlik-009845?style=flat-square&logo=qlik&logoColor=white)
-![Alteryx](https://img.shields.io/badge/-Alteryx-orange?style=flat-square&logo=alteryx&logoColor=white)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![SSIS](https://img.shields.io/badge/-SSIS-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
--->
 ## 🧠 Key Areas of Expertise
 
 - **Generative AI & Large Language Models (LLMs)** (Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Hugging Face, GPT, BERT, T5, Vector Databases, Semantic Search, Document Intelligence, AI-Powered Knowledge Retrieval)
@@ -569,8 +562,6 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 **Status:** ✅ Completed  
 **Core Stack:** Python (Pandas, SQLAlchemy), Prefect (Workflow Orchestration), MySQL (Staging & Analytics), SQL (Analytical Queries), Data Engineering (ETL Pipelines, Feature Engineering, Data Modeling)
 
----
-
 **_Data Engineering Focus_**
 
 * Designed an automated ETL pipeline to ingest, transform, and load e-commerce transaction data
@@ -579,8 +570,6 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 * Developed analytics-ready datasets optimized for fraud detection queries and BI dashboards
 * Implemented data validation, schema standardization, and feature engineering during transformation
 
----
-
 **_Fraud Analytics & Feature Engineering_**
 
 * Engineered fraud detection features such as promo misuse, device-location mismatch, and transaction anomalies
@@ -588,16 +577,12 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 * Designed SQL analytical queries to detect abnormal transaction behaviors and high-risk merchant categories
 * Created aggregated KPIs enabling drill-down analysis at the transaction and user levels
 
----
-
 **_Workflow Automation & Monitoring_**
 
 * Automated pipeline orchestration using Prefect with scheduling, retries, and workflow logging
 * Implemented modular task-based ETL architecture for scalable data processing
 * Enabled real-time monitoring and failure recovery using Prefect UI
 * Designed pipelines to support reliable batch processing for large transaction datasets
-
----
 
 **_Skills Demonstrated_**
 
@@ -607,8 +592,6 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 * MySQL database design (staging and analytics schemas)
 * SQL analytics and fraud detection metrics
 * Designing BI-ready datasets for reporting and dashboards
-
----
 
 **Goal:** Build a scalable **data engineering pipeline for fraud detection analytics**, demonstrating how automated ETL workflows, feature engineering, and SQL analytics can transform raw transactional data into actionable fraud insights for business intelligence systems.
 
@@ -623,16 +606,12 @@ A production-style **data engineering project** implementing an automated ETL pi
 **Status:** ✅ Completed  
 **Core Stack:** Python 3.12, Pandas, SQLAlchemy, Requests, Apache Airflow 2.10.2, PostgreSQL 13+, psycopg2, Python-dotenv, REST APIs, ETL, Data Quality, Workflow Orchestration, Logging & Monitoring
 
----
-
 **_Data Engineering & ETL_**
 
 * Built modular **Extract → Transform → Load** pipelines for CSV, JSON, and REST API sources
 * Implemented data cleaning, deduplication, schema standardization, and business-rule validation
 * Designed PostgreSQL schemas with primary keys, constraints, relationships, and transaction safety
 * Implemented **UPSERT-based idempotent loading** to prevent duplicates during pipeline re-runs
-
----
 
 **_Workflow Orchestration & Reliability_**
 
@@ -641,8 +620,6 @@ A production-style **data engineering project** implementing an automated ETL pi
 * Implemented structured logging across extraction, transformation, and loading stages
 * Added API timeout handling and retry logic with exponential backoff
 * Verified all five Airflow tasks and end-to-end pipeline execution successfully
-
----
 
 **_Skills Demonstrated_**
 
@@ -656,8 +633,6 @@ A production-style **data engineering project** implementing an automated ETL pi
 * Structured logging, exception handling, and pipeline observability
 * Environment-based configuration and secrets management
 * Production-oriented pipeline architecture and DevOps readiness
-
----
 
 **Goal:** Build a reliable **enterprise-style data ingestion pipeline** demonstrating multi-source data integration, automated workflow orchestration, data quality, idempotency, observability, and scalable data engineering practices.
 
