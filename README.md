@@ -614,6 +614,55 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 
 ---
 
+### ⚙️ ETL Data Ingestion Pipeline — Airflow & PostgreSQL
+
+[https://github.com/nagasantoshchavvakula/automated-data-ingestion-pipeline](https://github.com/nagasantoshchavvakula/automated-data-ingestion-pipeline)
+
+A production-style **data engineering project** implementing an automated ETL pipeline using **Apache Airflow and PostgreSQL**. The pipeline ingests data from CSV files, JSON files, and REST APIs, performs data cleaning and business-rule validation, and loads reliable, analytics-ready data into PostgreSQL using idempotent UPSERT operations.
+
+**Status:** ✅ Completed  
+**Core Stack:** Python (Pandas, SQLAlchemy, Requests), Apache Airflow, PostgreSQL, REST APIs, SQL, ETL
+
+---
+
+**_Data Engineering & ETL_**
+
+* Built modular **Extract → Transform → Load** pipelines for CSV, JSON, and REST API sources
+* Implemented data cleaning, deduplication, schema standardization, and business-rule validation
+* Designed PostgreSQL schemas with primary keys, constraints, relationships, and transaction safety
+* Implemented **UPSERT-based idempotent loading** to prevent duplicates during pipeline re-runs
+
+---
+
+**_Workflow Orchestration & Reliability_**
+
+* Designed an **Apache Airflow DAG** with task dependencies and parallel processing
+* Configured daily scheduling, automatic retries, and failure recovery
+* Implemented structured logging across extraction, transformation, and loading stages
+* Added API timeout handling and retry logic with exponential backoff
+* Verified all five Airflow tasks and end-to-end pipeline execution successfully
+
+---
+
+**_Skills Demonstrated_**
+
+* Python data engineering with Pandas, SQLAlchemy, and Requests
+* End-to-end ETL pipeline development
+* Apache Airflow DAG design, scheduling, task dependencies, retries, and monitoring
+* PostgreSQL database design, relationships, constraints, and transactions
+* Idempotent data loading using PostgreSQL UPSERT / `ON CONFLICT`
+* Multi-source data ingestion from CSV, JSON, and REST APIs
+* Data cleaning, validation, deduplication, and business-rule enforcement
+* Structured logging, exception handling, and pipeline observability
+* Environment-based configuration and secrets management
+* Production-oriented pipeline architecture and DevOps readiness
+
+---
+
+**Goal:** Build a reliable **enterprise-style data ingestion pipeline** demonstrating multi-source data integration, automated workflow orchestration, data quality, idempotency, observability, and scalable data engineering practices.
+
+---
+
 ### 📱 YouTube–TikTok Short Form Video Analytics — End-to-End Data Analytics Pipeline
 
 [https://github.com/nagasantoshchavvakula/YouTube-TikTok-Short-Form-Video-Analytics](https://github.com/nagasantoshchavvakula/YouTube-TikTok-Short-Form-Video-Analytics)
