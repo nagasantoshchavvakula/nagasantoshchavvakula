@@ -621,7 +621,7 @@ This project simulates a **real-world enterprise data pipeline**, incorporating 
 A production-style **data engineering project** implementing an automated ETL pipeline using **Apache Airflow and PostgreSQL**. The pipeline ingests data from CSV files, JSON files, and REST APIs, performs data cleaning and business-rule validation, and loads reliable, analytics-ready data into PostgreSQL using idempotent UPSERT operations.
 
 **Status:** ✅ Completed  
-**Core Stack:** Python (Pandas, SQLAlchemy, Requests), Apache Airflow, PostgreSQL, REST APIs, SQL, ETL
+**Core Stack:** Python 3.12, Pandas, SQLAlchemy, Requests, Apache Airflow 2.10.2, PostgreSQL 13+, psycopg2, Python-dotenv, REST APIs, ETL, Data Quality, Workflow Orchestration, Logging & Monitoring
 
 ---
 
