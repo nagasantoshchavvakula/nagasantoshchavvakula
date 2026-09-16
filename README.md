@@ -10,13 +10,14 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 -->
 
 * 🔍 Passionate about **Artificial Intelligence, Generative AI, Machine Learning, Deep Learning, Computer Vision, NLP, Data Science, MLOps, Data Engineering, Sports Analytics, and Full-Stack AI Development**
-* 🚀 Building **end-to-end AI, Machine Learning, Generative AI (RAG), Data Engineering, and Analytics solutions** using modern frameworks, cloud-ready architectures, and production-grade software engineering practices
-* 🌱 Continuously learning **LLMs, Retrieval-Augmented Generation (RAG), Transformer-based NLP, Multi-Modal AI, Computer Vision, Transfer Learning, MLOps, Cloud AI Services, Vector Databases, and Scalable Data Pipelines**
+* 🚀 Building **end-to-end AI, Machine Learning, Generative AI, RAG, Data Engineering, and Analytics solutions** using modern frameworks, cloud-ready architectures, and production-grade software engineering practices
+* 🌱 Continuously learning and expanding expertise in **LLMs, Retrieval-Augmented Generation (RAG), Transformer-based NLP, Multi-Modal AI, Generative Models, Computer Vision, Transfer Learning, MLOps, Cloud AI Services, Vector Databases, and Scalable Data Pipelines**
 * 🤝 Open to collaborating on **AI, Generative AI, Machine Learning, Deep Learning, Computer Vision, NLP, Data Engineering, MLOps, Sports Analytics, ETL Pipelines, and Enterprise AI Solutions**
-* 💡 Hands-on experience building **RAG applications, Multi-Modal AI systems, Predictive Analytics, Sports Analytics, Medical Image Classification, Fraud Detection, Recommendation Systems, Document Intelligence, Sentiment Analysis, and Interactive Analytics Dashboards**
-* 📊 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain, FAISS, FastAPI, Streamlit, Power BI, Tableau, MLflow, DVC, Docker, Git, GitHub Actions, and Cloud Data & AI Technologies**
+* 💡 Hands-on experience building **RAG applications, Generative AI platforms, Multi-Modal AI systems, GAN/VAE-based image generation, Computer Vision solutions, Predictive Analytics, Sports Analytics, Medical Image Classification, Fraud Detection, Recommendation Systems, Document Intelligence, Sentiment Analysis, and Interactive Analytics Dashboards**
+* 📊 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face, LangChain, FAISS, GANs, VAEs, Computer Vision, FastAPI, Streamlit, Power BI, Tableau, MLflow, DVC, Docker, Git, GitHub Actions, and Cloud Data & AI Technologies**
 * 🏗️ Focused on designing **scalable, production-ready AI systems** by applying software engineering best practices, MLOps, CI/CD, testing, model deployment, and reproducible machine learning pipelines
-* 🎯 Aspiring to build **AI-driven, data-centric solutions** that solve real-world business problems through advanced analytics, machine learning, and Generative AI.
+* 🎯 Aspiring to build **AI-driven, data-centric solutions** that solve real-world business problems through advanced analytics, machine learning, Deep Learning, Computer Vision, and Generative AI
+
 ---
 
 ## 🌟 Academic Background
@@ -67,6 +68,16 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ![Explainable AI](https://img.shields.io/badge/-Explainable%20AI-4B0082?style=flat-square&logo=tensorflow&logoColor=white)
 ![Grad-CAM](https://img.shields.io/badge/-GradCAM-FF4500?style=flat-square&logo=tensorflow&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Generative Models](https://img.shields.io/badge/-Generative%20Models-8A2BE2?style=flat-square)
+![GANs](https://img.shields.io/badge/-GANs-FF6F00?style=flat-square)
+![VAE](https://img.shields.io/badge/-VAE-6A5ACD?style=flat-square)
+![DCGAN](https://img.shields.io/badge/-DCGAN-5C2D91?style=flat-square)
+![WGAN-GP](https://img.shields.io/badge/-WGAN--GP-7B68EE?style=flat-square)
+![CycleGAN](https://img.shields.io/badge/-CycleGAN-009688?style=flat-square)
+![Pix2Pix](https://img.shields.io/badge/-Pix2Pix-4285F4?style=flat-square)
+![FID](https://img.shields.io/badge/-FID-4051B5?style=flat-square)
+![Inception Score](https://img.shields.io/badge/-Inception%20Score-FF4500?style=flat-square)
+![WikiArt](https://img.shields.io/badge/-WikiArt-795548?style=flat-square)
 ![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/-GPT--4%2F4o-412991?style=flat-square&logo=openai&logoColor=white)
@@ -142,21 +153,66 @@ Welcome to my GitHub profile! I am an experienced Data Analyst with 5+ years of 
 ---
 ## 🧠 Key Areas of Expertise
 
-- **Generative AI & Large Language Models (LLMs)** (Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Hugging Face, GPT, BERT, T5, Vector Databases, Semantic Search, Document Intelligence, AI-Powered Knowledge Retrieval)
+- **Generative AI & Large Language Models (LLMs)** (RAG, Prompt Engineering, LangChain, Hugging Face, GPT, BERT, T5, Vector Databases, Semantic Search, Document Intelligence, AI-Powered Knowledge Retrieval, **VAE, GANs, DCGAN, Conditional GAN, WGAN-GP, Pix2Pix, CycleGAN, Latent-Space Generation, Image Generation, Style Transfer**)
 - **Machine Learning & Predictive Analytics** (Regression, Classification, Clustering, Recommendation Systems, Fraud Detection, Churn Prediction, Sports Analytics, Model Development)
-- **Deep Learning, Computer Vision & Multi-Modal AI** (CNNs, DNNs, Autoencoders, RNNs, LSTMs, Transfer Learning, Medical Image Classification, Multi-Modal Content Generation, Ensemble Learning, Explainable AI)
+- **Deep Learning, Computer Vision & Multi-Modal AI** (CNNs, DNNs, Autoencoders, **U-Net, Residual Networks, Encoder-Decoder Architectures, Image Reconstruction, Image Denoising, Image-to-Image Translation**, RNNs, LSTMs, Transfer Learning, Medical Image Classification, Multi-Modal Content Generation, Ensemble Learning, Explainable AI)
 - **Natural Language Processing (NLP)** (Transformer Models, Sentiment Analysis, Text Generation, Text Summarization, Information Retrieval, Context-Aware AI Systems)
 - **Data Analytics & Business Intelligence** (Exploratory Data Analysis, Statistical Analysis, KPI Reporting, Dashboard Development, Data Visualization, Business Insights)
 - **Data Engineering & ETL Pipelines** (Data Ingestion, Data Transformation, Workflow Automation, Batch Processing, ETL Pipelines, Workflow Orchestration)
-- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, GitHub Actions, Automated Testing, Experiment Tracking, Model Versioning, Reproducible Machine Learning)
-- **Model Optimization & Evaluation** (Feature Engineering, Hyperparameter Tuning, Cross Validation, ROC-AUC, Precision-Recall, Confusion Matrix, Performance Analysis)
+- **MLOps & ML Lifecycle Management** (DVC, MLflow, CI/CD Pipelines, GitHub Actions, Automated Testing, Experiment Tracking, Model Versioning, Reproducible Machine Learning, **Model Checkpointing, Reproducible Inference**)
+- **Model Optimization & Evaluation** (Feature Engineering, Hyperparameter Tuning, Cross Validation, ROC-AUC, Precision-Recall, Confusion Matrix, Performance Analysis, **FID, Inception Score, Reconstruction Analysis**)
 - **Cloud & Scalable AI Systems** (AWS, Azure, Docker, Streamlit, FastAPI, Cloud-Based ML Workflows, Deployment-Ready AI Applications)
 - **Software Engineering & Application Development** (Python, Java, SQL, Spring Boot, React, REST APIs, Git, GitHub, Modular Architecture, Workflow Automation)
-
 ---
 
-## 📊 Featured Projects As Data Science Intern
+## 📊 Featured Projects 
 
+### 🎨 Advanced Generative Art Studio — Deep Learning & Generative AI Platform
+
+[https://github.com/nagasantoshchavvakula/advanced-generative-art-studio.git](https://github.com/nagasantoshchavvakula/advanced-generative-art-studio.git)
+
+A hands-on **Deep Learning and Generative AI platform** that integrates **VAEs, GANs, and image-to-image translation models** into a unified interactive application for digital-art generation, latent-space exploration, image reconstruction, and style transfer.
+
+The project progressed from implementing and testing foundational generative models to training selected models on the real-world **WikiArt dataset**, evaluating generated artwork, saving trained checkpoints, and integrating those models into a **Streamlit-based generative art platform**.
+
+**Status:** ✅ Completed   
+**Core Stack:** Python, PyTorch, VAE, GANs, DCGAN, Conditional GAN, WGAN-GP, Pix2Pix, CycleGAN, WikiArt, Streamlit, NumPy, Pillow, PyTest, GitHub Actions
+
+***Generative AI & Deep Learning***
+
+* Built an end-to-end **Generative Art Studio** implementing **VAE, Vanilla GAN, DCGAN, Conditional GAN, WGAN/WGAN-GP, Pix2Pix, and CycleGAN**
+* Implemented **VAE and Denoising Autoencoder** pipelines with reconstruction loss, KL divergence, reparameterization, denoising, and latent-space interpolation
+* Developed GAN architectures with **generator/discriminator training, adversarial losses, conditional generation, Wasserstein objectives, and gradient penalty**
+* Implemented **Pix2Pix and CycleGAN** for paired and unpaired image-to-image translation using U-Net skip connections, residual blocks, adversarial loss, cycle-consistency, and identity loss
+* Added **FID and Inception Score** evaluation to quantitatively analyze generated-image quality and diversity
+
+***WikiArt & Model Refinement***
+
+* Integrated a real **WikiArt artwork dataset** and organized content/style domains for generative-art and CycleGAN experiments
+* Retrained selected models on real artwork and saved **quality checkpoints** for downstream inference
+* Connected trained checkpoints to the Streamlit application so generation uses learned model weights rather than random initialization
+* Generated a curated **50-image portfolio** for model comparison and presentation
+* Built a workflow covering **data preparation → training → evaluation → checkpointing → inference → portfolio generation**
+
+***AI Platform & Engineering***
+
+* Built an interactive **Streamlit application** with model selection, configurable generation, reproducible seed-based sampling, latent interpolation, gallery management, and PNG export
+* Implemented reusable utilities for **model registry, GPU inference, image denormalization, tensor-to-NumPy conversion, upscaling, and image export**
+* Established automated testing with **PyTest**, validating model architectures, losses, evaluation metrics, reproducibility, export, and platform functionality
+* Integrated **GitHub Actions CI** with **65 automated tests achieving 100% passing results**
+* Diagnosed and resolved practical issues involving **dataset paths, ImageFolder structure, GPU/CPU tensor conversion, checkpoint loading, WGAN-GP model registration, and Streamlit inference**
+
+***Skills Demonstrated***
+
+* **Generative AI:** VAE, GAN, DCGAN, Conditional GAN, WGAN-GP, Pix2Pix, CycleGAN
+* **Deep Learning:** CNN, Encoder-Decoder, U-Net, Residual Blocks, Latent Representations
+* **Computer Vision:** Image Generation, Reconstruction, Denoising, Style Transfer, Image-to-Image Translation
+* **Evaluation:** FID, Inception Score, Reconstruction Analysis
+* **Frameworks:** PyTorch, torchvision, Streamlit
+* **Engineering:** Python, PyTest, Git, GitHub Actions, CI, Model Checkpoints, Reproducible Inference
+
+**Goal:** Build a practical **Generative AI platform for digital-art generation and style exploration**, demonstrating the complete lifecycle from generative-model implementation and real-data training to evaluation, checkpoint-based inference, and interactive AI application development.
+  
 ---
 ### 🧠 Multi-Modal Content Generation Platform — Deep Learning & Generative AI Application
 
@@ -971,18 +1027,13 @@ Here are some of my featured projects demonstrating expertise in **Data Analytic
 
 ### 🤖 Artificial Intelligence, Generative AI, Machine Learning, Data Science & Deep Learning
 
+- **[Advanced Generative Art Studio](https://github.com/DigiCrome-Academy/generative-art-studio-nagasantoshchavvakula)** – Deep Learning and Generative AI platform implementing **VAE, Autoencoders, Vanilla GAN, DCGAN, Conditional GAN, WGAN-GP, Pix2Pix, and CycleGAN** for image generation, latent-space interpolation, reconstruction, and style transfer, with **WikiArt-based model refinement, FID/Inception Score evaluation, Streamlit deployment, PyTest, and GitHub Actions CI**.
 - **[Multi-Modal Content Generation Platform](https://github.com/nagasantoshchavvakula/multi-modal-content-generation-platform)** – End-to-end Deep Learning and Generative AI platform integrating CNN Autoencoders, RNN/LSTMs, GPT-2, BERT, T5, FastAPI, and Streamlit for image generation, text generation, summarization, sentiment analysis, and multi-modal AI content creation with automated testing and CI/CD workflows.
-
 - **[Document QA ChatBot](https://github.com/nagasantoshchavvakula/Document-QA-ChatBot)** – Retrieval-Augmented Generation (RAG) application leveraging Groq Llama3, LangChain, HuggingFace Embeddings, and FAISS for intelligent PDF document question answering, semantic search, context-aware response generation, and enterprise knowledge retrieval.
-
 - **[Image Classification for Medical Diagnosis](https://github.com/nagasantoshchavvakula/Image-Classification-For-Medical-Diagnosis)** – End-to-end deep learning pipeline for pneumonia detection using CNNs, Transfer Learning (MobileNetV2, VGG16, ResNet50), Grad-CAM explainability, ensemble learning, DVC, and CI/CD workflows.
-
 - **[EPL Foul Win Probability Model](https://github.com/nagasantoshchavvakula/epl-foul-win-probability-model)** – End-to-end Sports Analytics and Machine Learning pipeline using StatsBomb event data to predict the probability of a player winning a foul after receiving or recovering possession through event analytics, feature engineering, predictive modeling, automated testing, and GitHub Actions CI/CD.
-
 - **[Real Estate Price Prediction Engine](https://github.com/nagasantoshchavvakula/Real-Estate-Price-Prediction)** – Production-ready machine learning system combining regression models, clustering, recommendation systems, ensemble learning, Streamlit deployment, automated testing, and reproducible ML workflows.
-
 - **[Telco Customer Churn Prediction](https://github.com/nagasantoshchavvakula/Customer-Churn-Prediction)** – End-to-end machine learning pipeline using XGBoost, SMOTE, hyperparameter optimization, feature engineering, CI/CD automation, and deployment-ready model serialization for customer retention analytics.
-
 - **[ML Lifecycle & MLOps Sentiment Analysis System](https://github.com/nagasantoshchavvakula/Sentiment-Analysis-MLOps)** – Transformer-based NLP solution using DistilBERT, DVC, MLflow, Docker, Flask APIs, GitHub Actions, and MLOps best practices for scalable sentiment analysis.
 
 ### ⚙️ Data Engineering & Analytics
@@ -1001,11 +1052,8 @@ Here are some of my featured projects demonstrating expertise in **Data Analytic
 ### 🌐 Full-Stack Development
 
 - **[Employee Management System](https://github.com/nagasantoshchavvakula/Employee-Management-System)** – Full-stack CRUD application with Spring Boot, React, JWT authentication, validation, and role-based access control.
-
 - **[Secure User Authentication System](https://github.com/nagasantoshchavvakula/Secure-User-Authentication-System)** – Spring Security and JWT-based authentication platform featuring secure login, registration, BCrypt password hashing, and protected REST APIs.
-
 - **[Social Media Application](https://github.com/nagasantoshchavvakula/Social-Media-App)** – Full-stack social networking platform built with Spring Boot and React, supporting posts, likes, comments, user profiles, follow/unfollow functionality, JWT authentication, and secure REST APIs.
-
 - **[Real-Time Chat Application](https://github.com/nagasantoshchavvakula/Real-Time-Chat-Application)** – Real-time messaging platform using Spring Boot, WebSockets, React, SockJS, and STOMP, featuring multiple chat rooms, persistent chat history, live communication, and JWT-based authentication.
 
 ---
